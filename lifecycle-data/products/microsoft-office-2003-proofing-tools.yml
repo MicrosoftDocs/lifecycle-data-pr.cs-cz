@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Nástroje kontroly pravopisu sady Microsoft Office 2003
+  description: Nástroje kontroly pravopisu sady Microsoft Office 2003 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810279"
+name: Nástroje kontroly pravopisu sady Microsoft Office 2003
+summary: >+
+  Nástroje kontroly pravopisu sady Microsoft Office 2003 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/08/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/08/2003
+  endDate: 01/14/2014
+content: ''

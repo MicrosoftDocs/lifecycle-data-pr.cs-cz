@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk FileAct a InterAct adaptéry pro SWIFT
+  description: Adaptéry Microsoft BizTalk FileAct a InterAct pro swift se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809969"
+name: Microsoft BizTalk FileAct a InterAct adaptéry pro SWIFT
+summary: >+
+  Adaptéry Microsoft BizTalk FileAct a InterAct pro swift se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 04/10/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Original Release
+  startDate: 04/10/2007
+  endDate: 04/11/2017
+content: ''
