@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 8
+  description: Aplikace Internet Explorer 8 se řídí zásadami životního cyklu komponent.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810007"
+name: Internet Explorer 8
+summary: >+
+  Aplikace Internet Explorer 8 se řídí zásadami životního cyklu [komponent.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 06/17/2009
+releases:
+- version: Original Release
+  startDate: 06/17/2009
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://www.microsoft.com/itpro/microsoft-edge)\n* [Nejčastější dotazy k zásadě životního cyklu aplikace Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ledna 2016 obdrží technickou podporu a aktualizace zabezpečení pouze nejaktuálnější verze aplikace Internet Explorer, která je k dispozici pro podporovaný operační systém."
