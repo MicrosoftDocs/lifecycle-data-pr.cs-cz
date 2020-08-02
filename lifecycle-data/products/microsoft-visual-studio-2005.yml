@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Aplikace Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809305"
+name: Aplikace Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující edice: Profesionální, Standardní, Standardní edice akademické licence, Team Edition pro profesionály v databázi, Team Edition pro softwarové architekty, Team Edition pro vývojáře softwaru, Team Edition pro testery softwaru, Team Suite, Team Test Load Agent, Nástroje pro Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o podpoře visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Pokyny pro migraci](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informace o produktu sady Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podpora tohoto produktu byla ukončena. Pokyny pro migraci najdete níže.\n> [!NOTE]\n> 2. března 2007 byla vydána verze Microsoft Visual Studio 2005 Team Edition pro databázové profesionály.\n\n## <a name=\"editions\"></a>Edice \n* Profesionální\n* Standardní\n* Akademická licence Standard Edition\n* Team Edition pro databázové profesionály\n* Team Edition pro softwarové architekty\n* Team Edition pro vývojáře softwaru\n* Team Edition pro testery softwaru\n* Apartmá týmu\n* Agent zatížení týmového testu\n* Nástroje pro systém Microsoft Office\n* VB Expresní\n* Vizuální C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
