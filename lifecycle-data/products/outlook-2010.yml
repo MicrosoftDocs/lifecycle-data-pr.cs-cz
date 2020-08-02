@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2010
+  description: Outlook 2010 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809827"
+name: Outlook 2010
+summary: >+
+  Outlook 2010 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující edice: Standardní, s Business Contact Manager
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/DeployOffice/office-2010-end-support-roadmap)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní\n* s business contact managerem"
