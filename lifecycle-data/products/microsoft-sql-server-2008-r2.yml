@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809459"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující edice: Datacenter, Developer, Enterprise, Express with Advanced Services, pro vestavěné systémy, Standard, Standard Edition pro malé firmy, Web, Pracovní skupina
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Sql Server konec možností podpory](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Možnosti podpory sql serveru 2008 a Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Rozšířený program aktualizace zabezpečení (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozšířené aktualizace zabezpečení (ESU) jsou k dispozici pro edice Datacenter, Standard, Enterprise a Embedded tohoto produktu až další tři roky po skončení podpory.\n> [!NOTE]\n> Pouze pro IA64 bude aktualizace SP2 podporována do 7/9/2019. Další informace najdete v blogu služby SQL Release Services.\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Vývojář\n* Podnik\n* Express\n* Expresní s pokročilými službami\n* pro vestavěné systémy\n* Standardní\n* Standardní edice pro malé firmy\n* Webové\n* Pracovní skupiny"

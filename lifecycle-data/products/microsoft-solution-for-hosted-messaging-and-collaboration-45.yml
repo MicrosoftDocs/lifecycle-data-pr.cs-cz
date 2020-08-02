@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Řešení společnosti Microsoft pro zasílání zpráv hostované a spolupráci 4.5
+  description: Řešení společnosti Microsoft pro zasílání zpráv hostované a spolupráci 4.5 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809555"
+name: Řešení společnosti Microsoft pro zasílání zpráv hostované a spolupráci 4.5
+summary: >+
+  Řešení společnosti Microsoft pro zasílání zpráv hostované a spolupráci 4.5 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/11/2008
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 09/11/2008
+  endDate: 12/12/2011
+content: ''
