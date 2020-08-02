@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Správce virtuálních strojů Microsoft System Center 2007
+  description: Správce virtuálních strojů microsoft system center 2007 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809859"
+name: Správce virtuálních strojů Microsoft System Center 2007
+summary: >
+  Správce virtuálních strojů microsoft system center 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2007
+  end: 01/08/2013
+  extendedEnd: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 11/29/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"
