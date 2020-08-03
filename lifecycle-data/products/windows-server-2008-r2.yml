@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Systém Windows Server 2008 R2 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "810144"
+name: Windows Server 2008 R2
+summary: "Systém Windows Server 2008 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\nTo platí pro následující edice: Datacenter, Enterprise, HPC Edition, Itanium-Based Systems, Standard, Web\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://aka.ms/AA1ovn4)\n* [Informace o upgradu serveru](/windows-server/upgrade/upgrade-overview)\n* [Rozšířený program aktualizace zabezpečení (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozšířené aktualizace zabezpečení (ESU) jsou k dispozici prostřednictvím specifických multilicenčních programů pro edice Datacenter, Standard, Enterprise a Embedded těchto edic produktů po dobu dalších tří let po skončení podpory. Další informace získáte od svého partnera nebo obchodního týmu microsoftu. \n\nDatum vydání-------------------------------Start----Datum před ukončením\n\nRozšířený rok aktualizace zabezpečení 3---01/11/2022---01/10/2023\n\nRozšířený rok aktualizace zabezpečení 2---01/12/2021---01/11/2022\n\nRozšířený rok aktualizace zabezpečení 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Podnik\n* HPC edice\n* Systémy na bázi itania\n* Standardní\n* Webové"
