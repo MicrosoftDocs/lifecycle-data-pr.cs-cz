@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualizace desktopů microsoft enterprise 1.0
+  description: Virtualizace desktopů Microsoft Enterprise 1.0 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809925"
+name: Virtualizace desktopů microsoft enterprise 1.0
+summary: >
+  Virtualizace desktopů Microsoft Enterprise 1.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující vydání: Enterprise
+
+
+  > [!IMPORTANT]
+
+  > Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/03/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Service Pack 1
+  startDate: 02/01/2010
+  endDate: 10/09/2018
+- version: Original Release
+  startDate: 08/03/2008
+  endDate: 04/12/2011
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Podnik"
