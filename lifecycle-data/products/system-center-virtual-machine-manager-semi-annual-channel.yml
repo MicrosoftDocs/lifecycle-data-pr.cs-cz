@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Správce virtuálních strojů System Center Semi Annual Channel
+  description: System Center Virtual Machine Manager Pololetní kanál se řídí moderními zásadami životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868478"
+name: Správce virtuálních strojů System Center Semi Annual Channel
+summary: >
+  System Center Virtual Machine Manager Pololetní kanál se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora skončila. Viz pokyny pro migraci níže.
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 02/08/2018
+  end: 01/24/2020
+releases:
+- version: Version 1807
+  startDate: 07/24/2018
+  endDate: 01/24/2020
+- version: Version 1801
+  startDate: 02/08/2018
+  endDate: 08/08/2019
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"

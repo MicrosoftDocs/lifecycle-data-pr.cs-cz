@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server Skypu pro firmy 2019
+  description: Skype pro firmy Server 2019 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868444"
+name: Server Skypu pro firmy 2019
+summary: >+
+  Skype pro firmy Server 2019 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 10/22/2018
+  end: 01/09/2024
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 10/22/2018
+  endDate: 10/14/2025
+content: ''

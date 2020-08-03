@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zdroje v oblasti dynamics 365
+  description: Personální zdroje Dynamics 365 se řídí moderními zásadami životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868384"
+name: Zdroje v oblasti dynamics 365
+summary: >+
+  Personální zdroje Dynamics 365 se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 03/27/2020
+releases:
+- version: Original Release
+  startDate: 03/27/2020
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Aplikace Core HR (dříve součástí dynamics 365 Talent) byla obnovena jako aplikace Dynamics 365 Human Resources."
