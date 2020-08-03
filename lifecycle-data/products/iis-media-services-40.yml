@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Služba IIS Media Services 4.0
+  description: Služba IIS Media Services 4.0 se řídí zásadami životního cyklu součástí.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850792"
+name: Služba IIS Media Services 4.0
+summary: >+
+  Služba IIS Media Services 4.0 se řídí zásadami životního cyklu [součástí.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/30/2011
+releases:
+- version: Original Release
+  startDate: 01/30/2011
+content: "\n\n> [!NOTE]\n> Tato verze je známá jako součást, která sleduje životní cyklus podpory nadřazeného hlavního produktu, windows server 2008"

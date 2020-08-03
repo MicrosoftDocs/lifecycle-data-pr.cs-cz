@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5
+  description: Microsoft .NET Framework 4.5 se řídí zásadami životního cyklu komponent.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850748"
+name: Microsoft .NET Framework 4.5
+summary: >+
+  Microsoft .NET Framework 4.5 se řídí zásadami životního cyklu [komponent.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 10/09/2012
+  end: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/09/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – rozhraní .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informace o produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> 12. ledna 2016 skončila podpora rozhraní .NET Framework 4, 4.5 a 4.5.1."

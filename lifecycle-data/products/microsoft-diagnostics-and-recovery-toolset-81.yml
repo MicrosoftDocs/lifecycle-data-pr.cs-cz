@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sada nástrojů Microsoft Diagnostics and Recovery 8.1
+  description: Microsoft Diagnostika a obnovení Toolset 8.1 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850952"
+name: Sada nástrojů Microsoft Diagnostics and Recovery 8.1
+summary: >+
+  Microsoft Diagnostika a obnovení Toolset 8.1 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/06/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Original Release
+  startDate: 02/06/2014
+  endDate: 04/09/2024
+content: ''

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "851107"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující edice: Agenti, Vše, Společenství, Express pro web, Express pro Windows, Express pro Windows Desktop, IntelliTrace Collector, Modelování SDK, Multibyte MFC knihovna, Premium, Professional, Release Management, Vzdálené nástroje, SDK, Shell (Integrovaný), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Rozšíření webových nástrojů
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edice \n* Agenti\n* Všechny\n* Komunita\n* Expresní pro web\n* Expres pro Windows\n* Express pro plochu systému Windows\n* Sběratel IntelliTrace\n* Modeling SDK\n* Knihovna knihovny MFC s více bajty\n* Premium\n* Profesionální\n* Správa verzí\n* Vzdálené nástroje\n* Sdk\n* Shell (integrovaný)\n* Skořepina (izolovaná)\n* Průzkumník týmu\n* Test Professional\n* Konečný\n* Vizuál C++ redistribuovatelný\n* Rozšíření webových nástrojů"
