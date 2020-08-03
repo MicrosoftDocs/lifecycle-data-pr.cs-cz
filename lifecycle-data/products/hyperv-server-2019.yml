@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server Hyper-V 2019
+  description: Server Hyper-V 2019 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868351"
+name: Server Hyper-V 2019
+summary: >+
+  Server Hyper-V 2019 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Komunita systému Windows Server](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> 13. listopadu 2018 byly znovu vydány systémy Windows Server 2019 a Windows Server verze 1809. Data podpory byla odpovídajícím způsobem upravena."
