@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Antigen
+  description: Program Microsoft Antigen se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809998"
+name: Microsoft Antigen
+summary: >+
+  Program Microsoft Antigen se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+  To platí pro následující edice: 9.0 pro Exchange, Enterprise Manager 9.0, pro brány SMTP, Správce nevyžádané pošty
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Plán pro bezpečnostní produkty pod značkou Forefront se změnil.Tento produkt je ukončen od prosince 31st, 2015.\n\n## <a name=\"editions\"></a>Edice \n* 9.0 pro výměnu\n* Podnikový manažer 9,0\n* pro brány SMTP\n* Správce nevyžádané pošty"
