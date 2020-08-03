@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ochrana koncových bodů aplikace Microsoft Forefront 2010
+  description: Microsoft Forefront Endpoint Protection 2010 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850945"
+name: Ochrana koncových bodů aplikace Microsoft Forefront 2010
+summary: >
+  Microsoft Forefront Endpoint Protection 2010 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora skončila. Viz pokyny pro migraci níže.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informace o údržbě](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Zákazníci musí zůstat aktuální s nejnovější aktualizací platformy proti malwaru, aby byli plně podporováni. Na program Forefront Endpoint Protection 2010 se vztahuje stejná zásada životního cyklu jako na nástroj System Center Configuration Manager 2007 pro hlavní i rozšířenou podporu."
