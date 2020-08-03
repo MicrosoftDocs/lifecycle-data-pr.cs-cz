@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Silverlight 5
+  description: Program Silverlight 5 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868450"
+name: Silverlight 5
+summary: >+
+  Program Silverlight 5 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2011
+  end: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 12/09/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Program Silverlight 5 bude podporovat prohlížeče uvedené zde prostřednictvím 10/12/2021 nebo prostřednictvím životního cyklu podkladových prohlížečů, podle toho, která hodnota je kratší.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Konec podpory programu Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Společnost Microsoft poskytne oznámení minimálně 12 měsíců před ukončením podpory nástrojů."
