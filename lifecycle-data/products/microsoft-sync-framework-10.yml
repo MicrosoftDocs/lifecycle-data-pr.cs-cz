@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 se řídí zásadami pevného životního cyklu.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "809878"
+name: Microsoft Sync Framework 1.0
+summary: >
+  Microsoft Sync Framework 1.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+
+
+
+  > [!IMPORTANT]
+
+  > Podpora tohoto produktu byla ukončena.
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 11/04/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 1
+  startDate: 06/29/2010
+  endDate: 01/08/2019
+- version: Original Release
+  startDate: 11/04/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Podpora sync Framework 1.0 SP1 končí v uvedeném datu, pokud není distribuována jako součást SharePoint Serveru 2010, 2013, 2016 nebo 2019. Součásti získají stejnou podporu jako jejich nadřazený produkt nebo platformu."
