@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: BizTalk Server 2010 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: BizTalk Server 2010 se řídí zásadami fixní životnosti.
+  ms.date: 08/06/2020
+  ms.openlocfilehash: 95ff78ba6073c8bc72f1f20e188a98747e4acf75
+  ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "810189"
+  ms.lasthandoff: 08/06/2020
+  ms.locfileid: "885103"
 name: BizTalk Server 2010
 summary: >+
-  BizTalk Server 2010 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  BizTalk Server 2010 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
 
-  To platí pro následující edice: Branch, Developer, Enterprise, Standard
+  Platí to pro následující edice: větev, vývojář, podnikový, podnikový RFID, standardní
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informace o verzi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edice \n* Pobočka\n* Vývojář\n* Podnik\n* Standardní"
+content: "\n## <a name=\"links\"></a>Pojí \n* [Pokyny k migraci](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informace o verzi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Systému \n* Vytváření\n* Autora\n* Organizaci\n* Podnikový RFID\n* Objem"
