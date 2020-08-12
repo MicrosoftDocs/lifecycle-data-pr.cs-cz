@@ -1,27 +1,27 @@
 ---
 title: Export produktů
 description: Export informací o životním cyklu produktu
-ms.date: 08/07/2020
-ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
-ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+ms.date: 08/11/2020
+ms.openlocfilehash: fc05add6eb3bf3cb01f6c7e0985c334647a163d7
+ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "885785"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "887811"
 ---
-# <a name="export"></a><span data-ttu-id="cb87e-103">Vyvezen</span><span class="sxs-lookup"><span data-stu-id="cb87e-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="ea66b-103">Vyvezen</span><span class="sxs-lookup"><span data-stu-id="ea66b-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="cb87e-104">Tato stránka je ve vývoji.</span><span class="sxs-lookup"><span data-stu-id="cb87e-104">This page is under development.</span></span>
+> <span data-ttu-id="ea66b-104">Tato stránka je ve vývoji.</span><span class="sxs-lookup"><span data-stu-id="ea66b-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="cb87e-105">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="cb87e-105">Export All Products</span></span>
-<span data-ttu-id="cb87e-106">Exportujte všechny produkty bez filtrů.</span><span class="sxs-lookup"><span data-stu-id="cb87e-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="ea66b-105">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="ea66b-105">Export All Products</span></span>
+<span data-ttu-id="ea66b-106">Exportujte všechny produkty bez filtrů.</span><span class="sxs-lookup"><span data-stu-id="ea66b-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="cb87e-107">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="cb87e-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="ea66b-107">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="ea66b-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="cb87e-108">Export produktů podle kategorie</span><span class="sxs-lookup"><span data-stu-id="cb87e-108">Export Products by Category</span></span>
-<span data-ttu-id="cb87e-109">Vyberte seskupení, které chcete exportovat:</span><span class="sxs-lookup"><span data-stu-id="cb87e-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="ea66b-108">Export produktů podle kategorie</span><span class="sxs-lookup"><span data-stu-id="ea66b-108">Export Products by Category</span></span>
+<span data-ttu-id="ea66b-109">Vyberte seskupení, které chcete exportovat:</span><span class="sxs-lookup"><span data-stu-id="ea66b-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Rodinou" title2="Skupina"]
 > - [(.NET | Každý](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885785"
 > - [(Windows | IPSec](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="cb87e-167">Export produktů do konce roku podpory</span><span class="sxs-lookup"><span data-stu-id="cb87e-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="cb87e-168">Vyberte rok pro export produktů, které končí v daném roce:</span><span class="sxs-lookup"><span data-stu-id="cb87e-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="ea66b-167">Export produktů do konce roku podpory</span><span class="sxs-lookup"><span data-stu-id="ea66b-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="ea66b-168">Vyberte rok pro export produktů, které končí v daném roce:</span><span class="sxs-lookup"><span data-stu-id="ea66b-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
