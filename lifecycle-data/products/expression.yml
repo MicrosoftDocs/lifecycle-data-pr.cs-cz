@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Výraz
-  description: Výraz se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Expres
+  description: Výraz se řídí zásadami fixní životnosti.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867358"
-name: Výraz
-summary: "Výraz se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\nTo platí pro následující edice: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893380"
+name: Expres
+summary: "Výraz se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio\n\n> [!IMPORTANT]\n> Podpora pro tento produkt skončila. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Počáteční datum prolnutí výrazů je 13. \n\n## <a name=\"editions\"></a>Edice \n* Směs\n* Design\n* Kodér\n* Studio"
+content: "\n\n> [!NOTE]\n> Počáteční datum pro sloučení výrazů je 13. července 2007. \n\n## <a name=\"editions\"></a>Systému \n* Směsné\n* Vločk\n* Encoder\n* Sady"
