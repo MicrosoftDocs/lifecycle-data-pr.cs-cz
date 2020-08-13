@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Aplikace Internet Explorer 9 se řídí zásadami životního cyklu komponent.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Internet Explorer 9 sleduje zásady životního cyklu součástí.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850787"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893602"
 name: Internet Explorer 9
 summary: >+
-  Aplikace Internet Explorer 9 se řídí zásadami životního cyklu [komponent.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 9 sleduje zásady životního cyklu [součástí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://www.microsoft.com/itpro/microsoft-edge)\n* [Nejčastější dotazy k zásadě životního cyklu aplikace Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ledna 2016 obdrží technickou podporu a aktualizace zabezpečení pouze nejaktuálnější verze aplikace Internet Explorer, která je k dispozici pro podporovaný operační systém."
+content: "\n## <a name=\"links\"></a>Pojí \n* [Pokyny k migraci](https://www.microsoft.com/itpro/microsoft-edge)\n* [Zásady životního cyklu Internet Exploreru – Nejčastější dotazy](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. ledna 2016 bude k dispozici pouze nejnovější verze Internet Exploreru podporovaná pro podporovaný operační systém."
