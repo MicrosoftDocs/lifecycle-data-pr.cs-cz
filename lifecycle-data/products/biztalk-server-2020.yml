@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk server 2020
-  description: BizTalk Server 2020 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 857d430f637df64f0a3dd3be4e8da07bb840592d
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: BizTalk Server 2020
+  description: BizTalk Server 2020 se řídí zásadami fixní životnosti.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868379"
-name: BizTalk server 2020
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891909"
+name: BizTalk Server 2020
 summary: >+
-  BizTalk Server 2020 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  BizTalk Server 2020 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
 
-  To platí pro následující edice: Branch, Developer, Enterprise, Standard
+  Platí pro tyto edice: větev, vývojář, podnikový, standardní
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Edice \n* Pobočka\n* Vývojář\n* Podnik\n* Standardní"
+content: "\n## <a name=\"links\"></a>Pojí \n* [Informace o produktu](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Systému \n* Vytváření\n* Autora\n* Organizaci\n* Objem"
