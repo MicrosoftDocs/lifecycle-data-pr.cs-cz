@@ -1,27 +1,27 @@
 ---
-title: Export produktů
+title: Export dat životního cyklu
 description: Export informací o životním cyklu produktu
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899795"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902395"
 ---
-# <a name="export"></a><span data-ttu-id="07252-103">Vyvezen</span><span class="sxs-lookup"><span data-stu-id="07252-103">Export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="af3f6-103">Export dat životního cyklu</span><span class="sxs-lookup"><span data-stu-id="af3f6-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="07252-104">Tato stránka je ve vývoji.</span><span class="sxs-lookup"><span data-stu-id="07252-104">This page is under development.</span></span>
+> <span data-ttu-id="af3f6-104">Tato stránka je ve vývoji.</span><span class="sxs-lookup"><span data-stu-id="af3f6-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="07252-105">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="07252-105">Export All Products</span></span>
-<span data-ttu-id="07252-106">Exportujte všechny produkty bez filtrů.</span><span class="sxs-lookup"><span data-stu-id="07252-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="af3f6-105">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="af3f6-105">Export all products</span></span>
+<span data-ttu-id="af3f6-106">Exportovat data životního cyklu pro všechny produkty kliknutím na následující odkaz:</span><span class="sxs-lookup"><span data-stu-id="af3f6-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="07252-107">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="07252-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="af3f6-107">Export všech produktů</span><span class="sxs-lookup"><span data-stu-id="af3f6-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="07252-108">Export produktů podle kategorie</span><span class="sxs-lookup"><span data-stu-id="07252-108">Export Products by Category</span></span>
-<span data-ttu-id="07252-109">Vyberte seskupení, které chcete exportovat:</span><span class="sxs-lookup"><span data-stu-id="07252-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="af3f6-108">Export produktů podle rodiny a skupin</span><span class="sxs-lookup"><span data-stu-id="af3f6-108">Export products by Family and Group</span></span>
+<span data-ttu-id="af3f6-109">Vyberte rodinu a potom skupinu, kterou chcete exportovat.</span><span class="sxs-lookup"><span data-stu-id="af3f6-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="af3f6-110">Poznámka: Export bude zahájen, když je vybraná hodnota skupiny.</span><span class="sxs-lookup"><span data-stu-id="af3f6-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Rodinou" title2="Skupina"]
 > - [(.NET | Každý](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899795"
 > - [(Windows | IPSec](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="07252-167">Export produktů do konce roku podpory</span><span class="sxs-lookup"><span data-stu-id="07252-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="07252-168">Vyberte rok pro export produktů, které končí v daném roce:</span><span class="sxs-lookup"><span data-stu-id="07252-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="af3f6-168">Export produktů do konce data podpory</span><span class="sxs-lookup"><span data-stu-id="af3f6-168">Export products by end of support date</span></span>
+<span data-ttu-id="af3f6-169">Vyberte rok a zobrazte produkty, na které se blíží konec podpory.</span><span class="sxs-lookup"><span data-stu-id="af3f6-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="af3f6-170">Poznámka: Export bude zahájen, když je vybraná hodnota rok.</span><span class="sxs-lookup"><span data-stu-id="af3f6-170">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
