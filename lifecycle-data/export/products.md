@@ -1,27 +1,27 @@
 ---
-title: Export produktů
+title: Export dat životního cyklu
 description: Export informací o životním cyklu produktu
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899795"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902395"
 ---
-# <a name="export"></a>Vyvezen
+# <a name="lifecycle-data-export"></a>Export dat životního cyklu
 
 > [!IMPORTANT]
 > Tato stránka je ve vývoji.
 
 ## <a name="export-all-products"></a>Export všech produktů
-Exportujte všechny produkty bez filtrů.
+Exportovat data životního cyklu pro všechny produkty kliknutím na následující odkaz:
 
 > [!div class="nextstepaction"]
 > [Export všech produktů](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Export produktů podle kategorie
-Vyberte seskupení, které chcete exportovat:
+## <a name="export-products-by-family-and-group"></a>Export produktů podle rodiny a skupin
+Vyberte rodinu a potom skupinu, kterou chcete exportovat. Poznámka: Export bude zahájen, když je vybraná hodnota skupiny. 
 
 > [!div class="op_multi_selector" title1="Rodinou" title2="Skupina"]
 > - [(.NET | Každý](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Vyberte seskupení, které chcete exportovat:
 > - [(Windows | IPSec](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Export produktů do konce roku podpory
-Vyberte rok pro export produktů, které končí v daném roce:
+## <a name="export-products-by-end-of-support-date"></a>Export produktů do konce data podpory
+Vyberte rok a zobrazte produkty, na které se blíží konec podpory. Poznámka: Export bude zahájen, když je vybraná hodnota rok.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
