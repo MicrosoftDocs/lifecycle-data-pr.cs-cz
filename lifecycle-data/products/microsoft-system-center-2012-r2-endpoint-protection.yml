@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ochrana koncových bodů Microsoft System Center 2012 R2
-  description: Ochrana koncových bodů Microsoft System Center 2012 R2 se řídí zásadami pevného životního cyklu.
+  title: Microsoft System Center 2012 R2 Endpoint Protection
+  description: Ochrana koncových bodů Microsoft System Center 2012 R2 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850730"
-name: Ochrana koncových bodů Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  Ochrana koncových bodů Microsoft System Center 2012 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Ochrana koncových bodů Microsoft System Center 2012 R2 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Pokyny pro migraci](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Dokumentace ke správci koncových bodů společnosti Microsoft](/mem/)\n\n> [!NOTE]\n> Zákazníci musí zůstat aktuální s nejnovější aktualizací platformy proti malwaru, aby byli plně podporováni."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Návod k migraci](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Dokumentace pro Microsoft Endpoint Manager](/mem/)\n\n> [!NOTE]\n> Zákazníci musí mít nejaktuálnější verzi s nejnovější aktualizací platformy proti malwaru, aby získali plnou podporu."

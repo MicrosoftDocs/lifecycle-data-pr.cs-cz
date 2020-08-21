@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Small Business Server 2011
-  description: Windows Small Business Server 2011 se řídí zásadami pevného životního cyklu.
+  description: Windows Small Business Server 2011 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850833"
 name: Windows Small Business Server 2011
 summary: >
-  Windows Small Business Server 2011 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Small Business Server 2011 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Essentials, Premium Add-On, Standard
+  Toto se vztahuje na následující edice: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > Datum podpory pro tento produktový balíček je určeno příslušnými životními cykly jednotlivých komponent. Zkontrolujte životní cyklus jednotlivých komponent produktu a určete jeho délku podpory.
+  > Datum podpory pro tento produktový balíček je určeno příslušnými životními cykly jednotlivých produktů. Zkontrolujte životní cyklus jednotlivé součásti produktu, tím určíte její délku podpory.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://aka.ms/AA1ovn4)\n* [Migrace systému Windows Small Business Server 2011 Standard do systému Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Edice \n* Základní pojmy\n* Prémiový doplněk\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://aka.ms/AA1ovn4)\n* [Migrace systému Windows Small Business Server 2011 Standard do systému Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Edice \n* Essentials\n* Premium Add-On\n* Standard"

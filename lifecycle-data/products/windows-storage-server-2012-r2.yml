@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2012 R2
-  description: Windows Storage Server 2012 R2 se řídí zásadami pevného životního cyklu.
+  description: Windows Storage Server 2012 R2 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851039"
 name: Windows Storage Server 2012 R2
 summary: >+
-  Windows Storage Server 2012 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Storage Server 2012 R2 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Essentials, Standard, Workgroup
+  Toto se vztahuje na následující edice: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Hlavní a rozšířená podpora pro tento produkt byla rozšířena, aby zákazníkům poskytla standardní časovou osu přechodu životního cyklu.\n> [!NOTE]\n> Počáteční datum vydání Essentials je září 25, 2014. \n\n## <a name=\"editions\"></a>Edice \n* Základní pojmy\n* Standardní\n* Pracovní skupiny"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Hlavní a rozšířená podpora pro tento produkt byla prodloužena, aby zákazníkům poskytla standardní časovou osu přechodu životního cyklu.\n> [!NOTE]\n> Počáteční datum edice Essentials je 25. září 2014. \n\n## <a name=\"editions\"></a>Edice \n* Essentials\n* Standard\n* Workgroup"

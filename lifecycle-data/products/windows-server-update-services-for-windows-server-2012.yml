@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Služba Windows Server Update Services pro systém Windows Server 2012
+  title: Windows Server Update Services pro server Windows 2012
   description: Služba Windows Server Update Services pro systém Windows Server 2012 se řídí zásadami životního cyklu součástí.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851003"
-name: Služba Windows Server Update Services pro systém Windows Server 2012
-summary: >+
-  Služba Windows Server Update Services pro systém Windows Server 2012 se řídí zásadami životního cyklu [součástí.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
-
-
+name: Windows Server Update Services pro server Windows 2012
+summary: "Služba Windows Server Update Services pro systém Windows Server 2012 se řídí zásadami životního cyklu [součástí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy). \n\n\n"
 products:
 - windows
 policyType: component
@@ -26,4 +23,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > Tato součást sleduje životní cyklus nadřazeného produktu Windows Server 2012.
+  > Tato součást se řídí životním cyklem svého nadřazeného produktu, kterým je Windows Server 2012.
