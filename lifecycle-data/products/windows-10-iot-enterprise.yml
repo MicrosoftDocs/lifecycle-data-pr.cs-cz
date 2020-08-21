@@ -5,19 +5,12 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879072"
 name: Windows 10 IoT Enterprise
-summary: >
-  Windows 10 IoT Enterprise se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
-
-
-
-  > [!IMPORTANT]
-
-  > Společnost Microsoft bude i nadále podporovat alespoň jeden pololetní kanál systému Windows 10 až do října 14, 2025.
+summary: "Windows 10 IoT Enterprise se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\n\n> [!IMPORTANT]\n> Společnost Microsoft bude i nadále podporovat alespoň jeden pololetní kanál systému Windows 10 až do 14. října 2025.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +48,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Přehled Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Informační přehled životního cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows jako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pokud není odloženo, následné aktualizace funkcí pololetního kanálu windows 10 mohou být nainstalovány před uvedeným koncem data hlavního proudu podpory."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Přehled Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Informační sešit životního cyklu systému Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pokud nedojde k odložení, mohou být následné aktualizace funkce půlročního kanálu systému Windows 10 instalovány před uvedeným koncem data hlavní fáze technické podpory."

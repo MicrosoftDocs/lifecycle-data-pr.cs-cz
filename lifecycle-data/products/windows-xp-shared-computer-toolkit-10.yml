@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP Shared Toolkit 1,0
-  description: Sada Windows XP Shared Computer Toolkit 1,0 se řídí zásadami životního cyklu komponenty.
+  title: Windows XP Shared Computer Toolkit 1.0
+  description: Windows XP Shared Computer Toolkit 1.0 se řídí zásadami životního cyklu součástí.
   ms.date: 08/05/2020
   ms.openlocfilehash: 44d78a0c6bf4b91055ebcc9516c2c0b1f20f6984
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883412"
-name: Windows XP Shared Toolkit 1,0
+name: Windows XP Shared Computer Toolkit 1.0
 summary: >+
-  Sada Windows XP Shared Computer Toolkit 1,0 se řídí zásadami životního cyklu [komponenty](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Windows XP Shared Computer Toolkit 1.0 se řídí zásadami životního cyklu [součástí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
