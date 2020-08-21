@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: AppFabric 1.1 pro Windows Server
-  description: AppFabric 1.1 pro Windows Server se řídí zásadami pevného životního cyklu.
+  title: AppFabric 1.1 for Windows Server
+  description: AppFabric 1.1 for Windows Server se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850810"
-name: AppFabric 1.1 pro Windows Server
+name: AppFabric 1.1 for Windows Server
 summary: >+
-  AppFabric 1.1 pro Windows Server se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  AppFabric 1.1 pro Windows Server se řídí [pevnýmo](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

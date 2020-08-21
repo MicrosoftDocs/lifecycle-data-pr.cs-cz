@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizace aplikací společnosti Microsoft 5.0
-  description: Virtualizace aplikací společnosti Microsoft 5.0 se řídí zásadami pevného životního cyklu.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850784"
-name: Virtualizace aplikací společnosti Microsoft 5.0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Virtualizace aplikací společnosti Microsoft 5.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Application Virtualization 5.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: pro Službu Vzdálená plocha, pro Terminálovou službu, pro stolní počítače se systémem Windows
+  To platí pro následující edice: for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* pro vzdálenou plochu\n* pro Terminálovou službu\n* pro plochy systému Windows"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* for Remote Desktop Services\n* for Terminal Services\n* pro Windows Desktops"

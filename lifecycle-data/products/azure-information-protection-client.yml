@@ -5,15 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850624"
 name: Klient Azure Information Protection
-summary: >+
-  Klient Azure Information Protection se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
-
-
+summary: "Klient Azure Information Protection se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\n\n"
 products:
 - azure
 policyType: modern-online
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Pokyny pro migraci](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Abychom zajistili jednotné a zjednodušené zákaznické prostředí, zastaralá se od 31. Tento časový rámec umožňuje všem aktuálním zákazníkům ochrany informací Azure přejít na naše jednotné řešení označování pomocí platformy Microsoft Information Protection Unified Labeling."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Návod k migraci](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Abychom zajistili jednotné a zjednodušené zákaznické prostředí, klient Azure Information Protection a  Label Management v Azure Portal jsou od 31. března 2021 zastaralé. Tento časový rámec umožňuje všem aktuálním zákazníkům Azure Information Protection přejít na naše jednotné řešení označování pomocí platformy Microsoft Information Protection Unified Labeling."

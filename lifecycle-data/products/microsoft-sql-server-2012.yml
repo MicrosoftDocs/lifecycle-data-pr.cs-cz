@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012 se řídí zásadami pevného životního cyklu.
+  description: Microsoft SQL Server 2012 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850731"
 name: Microsoft SQL Server 2012
 summary: >+
-  Microsoft SQL Server 2012 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft SQL Server 2012 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web
+  Toto se vztahuje na následující edice: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, for Embedded Systems, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Business Intelligence\n* Vývojář\n* Podnik\n* Jádro podniku\n* Express\n* pro vestavěné systémy\n* Standardní\n* Webové"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Business Inteligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

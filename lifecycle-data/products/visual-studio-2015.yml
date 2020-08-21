@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 se řídí zásadami pevného životního cyklu.
+  description: Visual Studio 2015 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850885"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Visual Studio 2015 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Agenti, Společenství, Enterprise, Express pro web, Express pro Windows 10, Express pro Windows Desktop, Modeling SDK, Professional, Release Management, Vzdálené nástroje, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
+  Toto se vztahuje na následující edice: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (integrované), Shell (izolované), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edice \n* Agenti\n* Komunita\n* Podnik\n* Expresní pro web\n* Express pro Windows 10\n* Express pro plochu systému Windows\n* Modeling SDK\n* Profesionální\n* Správa verzí\n* Vzdálené nástroje\n* Sdk\n* Shell (integrovaný)\n* Skořepina (izolovaná)\n* Test Professional\n* Vizuál C++ redistribuovatelný"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edice \n* Agents\n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrovaný)\n* Shell (Izolovaný)\n* Test Professional\n* Visual C++ Redistributable"

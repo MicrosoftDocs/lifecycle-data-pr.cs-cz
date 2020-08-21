@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 5.0 pro windows desktopy
-  description: Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops se řídí zásadami pevného životního cyklu.
+  title: Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850775"
-name: Microsoft Application Virtualization Hosting 5.0 pro windows desktopy
+name: Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Application Virtualization Hosting 5.0 pro Windows Desktops se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
   To platí pro následující edice: pro Windows Desktops
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* pro plochy systému Windows"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* pro Windows Desktops"
