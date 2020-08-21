@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce mobilních zařízení aplikace Microsoft System Center 2008
-  description: Správce mobilních zařízení microsoft system center 2008 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Správce zařízení Microsoft System Center Mobile 2008
+  description: Microsoft System Center Mobile Device Manager 2008 se řídí zásadami fixní životnosti.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809861"
-name: Správce mobilních zařízení aplikace Microsoft System Center 2008
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906265"
+name: Správce zařízení Microsoft System Center Mobile 2008
 summary: >+
-  Správce mobilních zařízení microsoft system center 2008 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft System Center Mobile Device Manager 2008 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
+
+  Platí to pro následující edice: všechny související, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Pojí \n* [Pokyny k migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Systému \n* Všechny příslušné\n* wSQL"
