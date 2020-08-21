@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 se řídí zásadami pevného životního cyklu.
+  description: Visual Studio 2010 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809438"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Visual Studio 2010 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Zmocněnci, Vše, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Výkon nástroje, Premium, Professional, Vzdálené debugger, SDK, Shell (Integrovaný), Shell (Izolované), Team Agents, Team Explorer, Test Professional, Nástroje pro Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer, Visual Developer, Visualization & Modelování SDK
+  Toto se vztahuje na následující edice: Agents, vše, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Agenti\n* Všechny\n* Technologie ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Správa laboratoří\n* Nástroje pro výkon\n* Premium\n* Profesionální\n* Vzdálený ladicí program\n* Sdk\n* Shell (integrovaný)\n* Skořepina (izolovaná)\n* Zástupci týmu\n* Průzkumník týmu\n* Test Professional\n* Nástroje pro modul Runtime systému Office 4.0\n* Konečný\n* VB Expresní\n* Vizuální C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Vizualizace & modelingu SDK"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Agents\n* Vše\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Integrovaný)\n* Shell (Izolovaný)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

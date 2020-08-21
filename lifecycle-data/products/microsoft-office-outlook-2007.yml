@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikace Microsoft Office Outlook 2007
-  description: Aplikace Microsoft Office Outlook 2007 se řídí zásadami pevného životního cyklu.
+  title: Microsoft Office Outlook 2007
+  description: Aplikace Microsoft Office Outlook 2007 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810249"
-name: Aplikace Microsoft Office Outlook 2007
-summary: >+
-  Aplikace Microsoft Office Outlook 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
-
-
-  To platí pro následující edice: Standard, s Business Contact Manager, s Interconnect
-
+name: Microsoft Office Outlook 2007
+summary: "Aplikace Microsoft Office Outlook 2007 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Standard, with Business Contact Manager, with Interconnect\n\n"
 products:
 - office
 policyType: fixed
@@ -36,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní\n* s business contact managerem\n* s propojením"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edice \n* Standard\n* with Business Contact Manager\n* with Interconnect"

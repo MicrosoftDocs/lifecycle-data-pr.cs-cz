@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP Embedded
-  description: Windows XP Embedded se řídí zásadami pevného životního cyklu.
+  description: Windows XP Embedded se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809421"
 name: Windows XP Embedded
 summary: >
-  Windows XP Embedded se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows XP Embedded se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Embedded
+  Toto se vztahuje na následující edice: Embedded
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena.
+  > Podpora tohoto produktu skončila.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Podpora vestavěné systému Windows XP](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edice \n* Vložené"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Podpora pro Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edice \n* Embedded"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zimní
-  description: Winternals se řídí zásadami pevného životního cyklu.
+  title: Winternals
+  description: Winternals se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809419"
-name: Zimní
+name: Winternals
 summary: >+
-  Winternals se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Winternals se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Správce Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
+  Toto se vztahuje na následující edice: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady životního cyklu pro akvizice microsoftu](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Vyloučí verze, které byly dříve neimpožené. Podpora tohoto produktu podléhá podmínkám jeho pořízení.\n\n## <a name=\"editions\"></a>Edice \n* Správce Pak 5.0\n* Správce defragu 3,0\n* Správce ochrany 2.0\n* Správce obnovení 3,0"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady životního cyklu pro akvizice Microsoftu](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Nevztahuje se na verze, kterým již byla ukončena podpora. Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu.\n\n## <a name=\"editions\"></a>Edice \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"
