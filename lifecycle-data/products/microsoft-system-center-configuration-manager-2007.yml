@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Nástroj Microsoft System Center Configuration Manager 2007
-  description: Program Microsoft System Center Configuration Manager 2007 se řídí zásadami pevného životního cyklu.
+  title: Microsoft System Center Configuration Manager 2007
+  description: Microsoft System Center Configuration Manager 2007 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809869"
-name: Nástroj Microsoft System Center Configuration Manager 2007
+name: Microsoft System Center Configuration Manager 2007
 summary: >
-  Program Microsoft System Center Configuration Manager 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft System Center Configuration Manager 2007 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže.
+  > Podpora tohoto produktu skončila. Pokyny k migraci naleznete níže.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informace o produktu](/mem/configmgr/core/understand/introduction)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informace o produktu](/mem/configmgr/core/understand/introduction)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"

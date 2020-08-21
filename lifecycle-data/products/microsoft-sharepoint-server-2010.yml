@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: Microsoft SharePoint Server 2010 se řídí zásadami pevného životního cyklu.
+  description: Microsoft SharePoint Server 2010 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809316"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft SharePoint Server 2010 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Access Services, All applicable, Excel Services, Performance Point Services
+  Toto se vztahuje na následující edice: Access Services, všechny použitelné, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Rozšíření podpory](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Pokyny pro migraci](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Datum ukončení podpory tohoto produktu bylo prodlouženo z 13.\n\n## <a name=\"editions\"></a>Edice \n* Přístupové služby\n* Všechny použitelné\n* Excel Services\n* Služby performance point"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Rozšíření podpory](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Návod k migraci](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Datum ukončení podpory tohoto produktu bylo odloženo z 13. října 2020 na 13. dubna 2021.\n\n## <a name=\"editions\"></a>Edice \n* Access Services\n* Všechny použitelné\n* Excel Services\n* Služby Performance Point"

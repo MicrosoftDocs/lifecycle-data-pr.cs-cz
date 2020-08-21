@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Služba Windows Server Update Services 3.0
-  description: Služba Windows Server Update Services 3.0 se řídí zásadami pevného životního cyklu.
+  title: Windows Server Update Services 3.0
+  description: Windows Server Update Services 3.0 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810143"
-name: Služba Windows Server Update Services 3.0
+name: Windows Server Update Services 3.0
 summary: >
-  Služba Windows Server Update Services 3.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Server Update Services 3.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora byla prodloužena ze 7/11/2017 na 1/14/2020."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podpora byla prodloužena z 11.7.2017 do 14.1.2020."

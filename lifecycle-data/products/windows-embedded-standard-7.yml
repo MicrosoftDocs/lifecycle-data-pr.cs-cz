@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vestavěný systém Windows 7
-  description: Windows Embedded Standard 7 se řídí zásadami pevného životního cyklu.
+  title: Windows Embedded Standard 7
+  description: Windows Embedded Standard 7 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809790"
-name: Vestavěný systém Windows 7
+name: Windows Embedded Standard 7
 summary: >+
-  Windows Embedded Standard 7 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Embedded Standard 7 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Standardní
+  Toto se vztahuje na následující edice: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Odkazy \n* [* Extended Security Update Program (ESU) - Rozšířené aktualizace zabezpečení pro vybrané vložené produkty jsou k dispozici prostřednictvím výrobců OEM](/lifecycle/faq/extended-security-updates)\n* [Pokyny pro migraci](https://support.microsoft.com/help/4057281)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Rozšířené aktualizace zabezpečení (ESU) jsou k dispozici pro windows embedded standard 7 až další tři roky po skončení podpory prostřednictvím výrobců OEM. Další informace získáte od svého partnera nebo obchodního týmu microsoftu.\n\n## <a name=\"editions\"></a>Edice \n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [* Extended Security Updates (ESU) - Rozšířené aktualizace zabezpečení pro vybrané integrované produkty jsou k dispozici prostřednictvím OEM výrobců](/lifecycle/faq/extended-security-updates).\n* [Návod k migraci](https://support.microsoft.com/help/4057281)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '* Rozšířené bezpečnostní aktualizace (ESU) jsou dostupné pro Windows Embedded Standard 7 na další tři roky po ukončení podpory prostřednictvím OEM výrobců. Další informace získáte od partnerského nebo obchodního týmu společnosti Microsoft.\n\n## <a name=\"editions\"></a>Edice \n* Standard"

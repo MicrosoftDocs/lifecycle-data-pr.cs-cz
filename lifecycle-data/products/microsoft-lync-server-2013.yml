@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 se řídí zásadami pevného životního cyklu.
+  description: Microsoft Lync Server 2013 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809584"
 name: Microsoft Lync Server 2013
 summary: >+
-  Microsoft Lync Server 2013 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Lync Server 2013 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
+  Toto se vztahuje na následující edice: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition je podporovaný Lync Serverem 2010 a Lync Serverem 2013. Datum podpory pro Lync Phone Edition bylo prodlouženo o dva roky, aby bylo v souladu s životním cyklem Lync Serveru 2013.\n\n## <a name=\"editions\"></a>Edice \n* Podnik\n* Sada pro vývoj softwaru trvalého chatu\n* Telefon\n* Sdk\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition je podporovaný s Lync Serverem 2010 a Lync Serverem 2013. Datum podpory pro Lync Phone Edition bylo prodlouženo o dva roky, aby bylo v souladu s životním cyklem Lync Server 2013.\n\n## <a name=\"editions\"></a>Edice \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (pro internetové weby)
-  description: Microsoft SharePoint 2010 (pro internetové servery) se řídí zásadami pevného životního cyklu.
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internet Sites) se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809881"
-name: Microsoft SharePoint 2010 (pro internetové weby)
+name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (pro internetové servery) se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft SharePoint 2010 (for Internet Sites) se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: pro internetové servery Enterprise, pro internetové servery Standard
+  To platí pro následující edice: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace k produktu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentace pro vývojáře](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Datum ukončení podpory tohoto produktu bylo prodlouženo z 13.\n\n## <a name=\"editions\"></a>Edice \n* pro rozlehlé servery s internetovými servery\n* pro standard internetových serverů"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace produktu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentace pro vývojáře](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Datum ukončení podpory tohoto produktu bylo odloženo z 13. října 2020 na 13. dubna 2021.\n\n## <a name=\"editions\"></a>Edice \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vložený server Windows Storage Server 2008
-  description: Windows Storage Server 2008 Embedded se řídí zásadami pevného životního cyklu.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809423"
-name: Vložený server Windows Storage Server 2008
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Storage Server 2008 Embedded se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: 32 bit, 64 bit, basic, basic 32-bit, enterprise, standard, workgroup
+  Toto se vztahuje na následující edice: 32 bitů, 64 bitů, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Tento produkt dosáhl konce podpory. Pokyny pro migraci najdete níže.\n\n## <a name=\"editions\"></a>Edice \n* 32 bitů\n* 64 bitů\n* Základní\n* Základní 32bitový\n* Podnik\n* Standardní\n* Pracovní skupiny"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> U tohoto produktu došlo k ukončení podpory. Návod pro migraci najdete níže.\n\n## <a name=\"editions\"></a>Edice \n* 32 bitů\n* 64 bitů\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"
