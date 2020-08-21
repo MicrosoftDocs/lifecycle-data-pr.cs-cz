@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8 se řídí zásadami fixní životnosti.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850882"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906686"
 name: Windows 8
 summary: >
-  Windows 8 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows 8 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
 
-  To platí pro následující edice: Enterprise, Enterprise N, N, Pro s aplikací Media Center, Professional, Professional N
+  Tento postup platí pro následující edice: Enterprise, Enterprise N, N, pro se systémem Media Center, profesionálně, profesionálově, SL
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena. Zákazníci musí aktualizovat na Windows 8.1, aby zůstali podporováni.
+  > Podpora pro tento produkt skončila. Aby se zákazníci mohli nadále podporovat, musí aktualizovat na Windows 8,1.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edice \n* Podnik\n* Podnik N\n* N\n* Pro s aplikací Media Center\n* Profesionální\n* Profesionální N"
+content: "\n## <a name=\"links\"></a>Pojí \n* [Časté otázky k cyklu životnosti – Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Systému \n* Organizaci\n* Enterprise N\n* J\n* Pro s Media Center\n* Odborný\n* Profesionální N\n* SL"

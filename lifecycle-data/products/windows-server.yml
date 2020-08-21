@@ -5,17 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868503"
 name: Windows Server
-summary: >+
-  Systém Windows Server se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
-
-
-  To platí pro následující edice: Datacenter, Standard
-
+summary: "Systém Windows Server se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Datacenter, Standard\n\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +35,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Kanály obsluhy systému Windows Server: LTSC a SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Říjnová aktualizace Windows 10 (verze 1809) byla znovu vydána v listopadu 13, 2018. Data podpory byla odpovídajícím způsobem upravena.\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Kanály pro údržbu systému Windows Server: LTSC a SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Aktualizace Windows 10 z října (verze 1809) byla znovu vydána 13. listopadu 2018. Data, týkající se podpory, byla odpovídajícím způsobem upravena.\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Standard"

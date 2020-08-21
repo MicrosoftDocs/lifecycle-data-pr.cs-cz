@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: Windows 10 IoT 2019 LTSC se řídí zásadami pevného životního cyklu.
+  description: Windows 10 IoT 2019 LTSC se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868412"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  Windows 10 IoT 2019 LTSC se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows 10 IoT 2019 LTSC se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Core, Enterprise
+  Toto se vztahuje na následující edice: Core, Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 10 Základní služby IoT](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [říjnová aktualizace Windows 10 (verze 1809) byla znovu vydána v listopadu 13, 2018. Data podpory byla odpovídajícím způsobem upravena.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows jako služba (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Nejčastější dotazy k 10 LTSC pro Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 Dlouhodobý servisní kanál\n\n## <a name=\"editions\"></a>Edice \n* Core\n* Podnik"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Aktualizace Windows 10 z října (verze 1809) byla znovu vydána 13. listopadu 2018. Data týkající se podpory byla odpovídajícím způsobem upravena.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Nejčastější dotazy k Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Kanál pro dlouhodobou údržbu Windows 10\n\n## <a name=\"editions\"></a>Edice \n* Core\n* Enterprise"
