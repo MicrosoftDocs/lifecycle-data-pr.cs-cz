@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom sleduje fixní životnost zásad.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907283"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom sleduje [fixní](/lifecycle/policies/fixed) životnost zásad.
+
+
+  Platí to pro následující edice: služby aplikací 1,0, Client 2,0, Client 2,1, Server 2,0, Server 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson získali produkty Microsoft Mediaroom v 2013. Další informace najdete v článku [tisková verze](http://www.ericsson.com/news/1691160). Pro zákazníky, kteří potřebují podporu, přejděte [sem](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Klient 2,1 Microsoft Mediaroom byl vydán 27. prosince 2011. \n\n## <a name=\"editions\"></a>Edice \n* Služby aplikací 1,0\n* Klient 2,0\n* Klient 2,1\n* Server 2,0\n* Server 2,1"
