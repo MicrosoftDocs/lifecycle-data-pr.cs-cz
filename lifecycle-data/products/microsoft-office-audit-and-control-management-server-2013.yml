@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server pro správu auditů a řízení sady Microsoft Office 2013
-  description: Server Microsoft Office Audit and Control Management Server 2013 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 96d9fdc88fbd6ccfcd2a97e1b0a0703c2532411d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit a řízení pro správu 2013 se řídí zásadami fixní životnosti.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851076"
-name: Server pro správu auditů a řízení sady Microsoft Office 2013
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907903"
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Server Microsoft Office Audit and Control Management Server 2013 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Office Audit a řízení pro správu 2013 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
 
 products:
