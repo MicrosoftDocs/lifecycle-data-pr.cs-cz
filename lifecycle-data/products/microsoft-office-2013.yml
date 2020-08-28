@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2013
   description: Microsoft Office 2013 se řídí pevnými zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851081"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905239"
 name: Microsoft Office 2013
 summary: >+
   Microsoft Office 2013 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Toto se vztahuje na následující edice: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+  Toto se vztahuje na následující edice: Home a Business, pro studenty a domácnosti, sada pro více jazyků, Professional, Professional Plus, program Professional Plus Home Use, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 se nevztahuje na edici Web Apps Server. \n\n## <a name=\"editions\"></a>Edice \n* Home and Business\n* Home and Student\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 se nevztahuje na edici Web Apps Server. \n\n## <a name=\"editions\"></a>Edice \n* Home and Business\n* Home and Student\n* Balíček s více jazyky\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"

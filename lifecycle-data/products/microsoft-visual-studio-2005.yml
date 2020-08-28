@@ -2,15 +2,20 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Microsoft Visual Studio 2005 se řídí pevnými zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809305"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893158"
 name: Microsoft Visual Studio 2005
-summary: "Microsoft Visual Studio 2005 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express\n\n"
+summary: >+
+  Microsoft Visual Studio 2005 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+
+
+  Toto se vztahuje na následující edice: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
 products:
 - vs
 policyType: fixed
@@ -25,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o podpoře Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Návod k migraci](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informace o produktu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podpora tohoto produktu skončila. Návod pro migraci najdete níže.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition pro databázové profesionály vydaná 2. března 2007.\n\n## <a name=\"editions\"></a>Edice \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informace o podpoře Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Informace o produktu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podpora tohoto produktu skončila. Návod pro migraci najdete níže.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition pro databázové profesionály vydaná 2. března 2007.\n\n## <a name=\"editions\"></a>Edice \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

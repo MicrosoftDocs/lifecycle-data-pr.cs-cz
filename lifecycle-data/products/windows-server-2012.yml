@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Systém Windows Server 2012 se řídí pevnými zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows Server 2012 se řídí pevnými zásadami životního cyklu.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851094"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906945"
 name: Windows Server 2012
 summary: >+
-  Systém Windows Server 2012 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+  Windows Server 2012 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Toto se vztahuje na následující edice: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  Toto se vztahuje na následující edice: Datacenter, Essentials, External Connector, pro Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/windows-server/upgrade/upgrade-overview)\n* [Informace o produktu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hlavní a rozšířená podpora pro tento produkt byla prodloužena, aby zákazníkům poskytla standardní časovou osu přechodu životního cyklu. Windows Server Essentials byl vydán 2. ledna 2013.\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/windows-server/upgrade/upgrade-overview)\n* [Informace o produktu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hlavní a rozšířená podpora pro tento produkt byla prodloužena, aby zákazníkům poskytla standardní časovou osu přechodu životního cyklu. Windows Server Essentials byl vydán 2. ledna 2013.\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Essentials\n* Externí konektor\n* for Embedded Systems\n* Foundation\n* Standard"
