@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio portály v6. x nebo dřívější
+  description: Adxstudio portály v6. x nebo dřívější následují zásady fixní životnosti.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924340"
+name: Adxstudio portály v6. x nebo dřívější
+summary: >+
+  Adxstudio portály v6. x nebo dřívější následují zásady [fixní](/lifecycle/policies/fixed) životnosti.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Časté otázky týkající se cyklu životnosti](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Podpora pro tento produkt podléhá podmínkám jeho nabytí a skončila."
