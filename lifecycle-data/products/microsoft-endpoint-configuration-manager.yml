@@ -2,13 +2,14 @@
 metadata:
   title: Správce konfigurace Microsoft Endpoint
   description: Nástroj Microsoft Endpoint Configuration Manager sleduje moderní zásady životního cyklu.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905791"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934036"
 name: Správce konfigurace Microsoft Endpoint
 summary: >
   Nástroj Microsoft Endpoint Configuration Manager sleduje [moderní](/lifecycle/policies/modern) zásady životního cyklu.
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Pojí \n* [Informace o údržbě](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Podrobnosti o verzi](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager je teď Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historické verze](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co je Configuration Manager](/mem/configmgr/core/understand/introduction)\n\n\n\nKlíčová slova: SCCM, System Center Configuration Manager"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Podrobnosti o verzi](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager je teď Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historické verze](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co je Configuration Manager](/mem/configmgr/core/understand/introduction)"
