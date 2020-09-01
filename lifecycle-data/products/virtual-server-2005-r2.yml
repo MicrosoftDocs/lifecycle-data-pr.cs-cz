@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuální server 2005 R2
-  description: Virtual Server 2005 R2 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtuální Server 2005 R2
+  description: Virtuální Server 2005 R2 se řídí zásadami pro fixní životnost.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809807"
-name: Virtuální server 2005 R2
-summary: "Virtual Server 2005 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\nTo platí pro následující vydání: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937921"
+name: Virtuální Server 2005 R2
+summary: "Virtuální Server 2005 R2 se řídí zásadami pro [fixní](/lifecycle/policies/fixed) životnost.\n\nToto se vztahuje na následující edice: Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Podnik\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Enterprise\n* Standard"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016
-  description: Word 2016 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e192e8d44b38201ff6e87ff9a824ced78dbbf87f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Word 2016 sleduje fixní životnost zásad.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850712"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938624"
 name: Word 2016
 summary: >+
-  Word 2016 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Word 2016 sleduje [fixní](/lifecycle/policies/fixed) životnost zásad.
 
 
-  To platí pro následující vydání: Standardní
+  Toto se vztahuje na následující edice: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Standard"
