@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual FoxPro 9.0
-  description: Microsoft Visual FoxPro 9.0 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e21a4d7b031b3a982181f2bf975886672be36735
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Visual FoxPro 9,0
+  description: Microsoft Visual FoxPro 9,0 sleduje fixní životnost zásad.
+  ms.date: 09/01/2020
+  keywords: Professional
+  ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809458"
-name: Microsoft Visual FoxPro 9.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929300"
+name: Microsoft Visual FoxPro 9,0
 summary: >+
-  Microsoft Visual FoxPro 9.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Visual FoxPro 9,0 sleduje [fixní](/lifecycle/policies/fixed) životnost zásad.
 
 
-  To platí pro následující vydání: Professional
+  Platí to pro následující edice: Professional
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/22/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Profesionální"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Professional"
