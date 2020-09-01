@@ -2,19 +2,20 @@
 metadata:
   title: Systém Cloud Platform
   description: Systém Cloud Platform sleduje zásady fixní životnosti.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891872"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932038"
 name: Systém Cloud Platform
 summary: >+
   Systém Cloud Platform sleduje zásady [fixní](/lifecycle/policies/fixed) životnosti.
 
 
-  Platí pro tyto edice: standardní
+  Toto se vztahuje na následující edice: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podpora pro systém Cloud Platform je rozšířená, aby poskytovala všechny zákazníky s časovou osou přechodu standardní cyklus.\n> [!NOTE]\n> Standard Cloud Platform System Standard jsme vypnuli 18. září 2017.\n\n## <a name=\"editions\"></a>Systému \n* Objem"
+content: "\n\n> [!NOTE]\n> Podpora pro systém Cloud Platform je rozšířená, aby poskytovala všechny zákazníky s časovou osou přechodu standardní cyklus.\n> [!NOTE]\n> Standard Cloud Platform System Standard jsme vypnuli 18. září 2017.\n\n## <a name=\"editions\"></a>Edice \n* Standard"

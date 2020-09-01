@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Lync 2013 sleduje zásady fixní životnosti.
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850753"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933333"
 name: Lync 2013
 summary: >+
-  Lync 2013 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Lync 2013 sleduje zásady [fixní](/lifecycle/policies/fixed) životnosti.
 
 
   To platí pro následující edice: SDK, Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Verze klienta Skypu pro firmy 2015 je aktualizace klienta Lyncu 2013 a bude se řídit stejným životním cyklem produktu.\nPočáteční datum pro Lync 2013 SDK je 23. \n\n## <a name=\"editions\"></a>Edice \n* Sdk\n* Standardní"
+content: "\n\n> [!NOTE]\n> Verze klienta Skype pro firmy 2015 je aktualizace klienta Lync 2013 a bude dodržovat stejnou životnost produktu.\nPočátečním datem pro Lync 2013 SDK je 23 2013. \n\n## <a name=\"editions\"></a>Edice \n* SDK\n* Standard"
