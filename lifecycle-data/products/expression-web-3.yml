@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Výraz 3
-  description: Výraz 3 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Výraz 3 se řídí zásadami fixní životnosti.
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809354"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930743"
 name: Výraz 3
 summary: >+
-  Výraz 3 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Výraz 3 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
 
 
-  To platí pro následující edice: Design, Encoder, Studio, Web
+  Platí to pro následující edice: návrh, kodér, Studio, Web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Počáteční datum výrazového návrhu 3 je 19. \n\n## <a name=\"editions\"></a>Edice \n* Design\n* Kodér\n* Studio\n* Webové"
+content: "\n\n> [!NOTE]\n> Počáteční datum pro návrh výrazu 3 je 19. listopadu 2009. \n\n## <a name=\"editions\"></a>Edice \n* Vločk\n* Encoder\n* Sady\n* Web"
