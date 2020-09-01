@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Výraz 2
-  description: Výraz 2 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Výraz 2 se řídí zásadami fixní životnosti.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809356"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930817"
 name: Výraz 2
-summary: "Výraz 2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\nTo platí pro následující edice: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podpora pro tento produkt byla ukončena. \n"
+summary: "Výraz 2 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio, Web\n\n> [!IMPORTANT]\n> Pro tento produkt byla ukončena podpora. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Směs\n* Design\n* Kodér\n* Studio\n* Webové"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Směsné\n* Vločk\n* Encoder\n* Sady\n* Web"
