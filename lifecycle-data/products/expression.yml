@@ -2,15 +2,16 @@
 metadata:
   title: Expres
   description: Výraz se řídí zásadami fixní životnosti.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893380"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936219"
 name: Expres
-summary: "Výraz se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio\n\n> [!IMPORTANT]\n> Podpora pro tento produkt skončila. \n"
+summary: "Výraz se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Počáteční datum pro sloučení výrazů je 13. července 2007. \n\n## <a name=\"editions\"></a>Systému \n* Směsné\n* Vločk\n* Encoder\n* Sady"
+content: "\n\n> [!NOTE]\n> Počáteční datum pro sloučení výrazů je 13. července 2007. \n\n## <a name=\"editions\"></a>Edice \n* Směsné\n* Vločk\n* Encoder\n* Sady"
