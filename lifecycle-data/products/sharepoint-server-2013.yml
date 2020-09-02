@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2013
-  description: SharePoint Server 2013 se řídí zásadami pevného životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3d20695816aa9343a74e69ad5f957ab6361f3c1
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: SharePoint Server 2013 se řídí zásadami pro fixní životnost.
+  ms.date: 09/02/2020
+  keywords: ''
+  ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: MT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851030"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941589"
 name: SharePoint Server 2013
 summary: >+
-  SharePoint Server 2013 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  SharePoint Server 2013 se řídí zásadami pro [fixní](/lifecycle/policies/fixed) životnost.
 
 
 products:
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Servisní informace](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Podívejte se na dokumentaci k [produktům](https://docs.microsoft.com/sharepoint/sharepoint-server) a [vývojářům](https://developer.microsoft.com/sharepoint/docs) ."
