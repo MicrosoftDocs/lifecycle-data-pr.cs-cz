@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce zařízení Microsoft System Center Mobile 2008
-  description: Microsoft System Center Mobile Device Manager 2008 se řídí zásadami fixní životnosti.
+  title: Správce Microsoft System Center Mobile Device Manager 2008
+  description: Microsoft System Center Mobile Device Manager 2008 se řídí pevnými zásadami životního cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906265"
-name: Správce zařízení Microsoft System Center Mobile 2008
+name: Správce Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
+  Microsoft System Center Mobile Device Manager 2008 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Platí to pro následující edice: všechny související, wSQL
+  To platí pro následující vydání: Všechno příslušná, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Pojí \n* [Pokyny k migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Systému \n* Všechny příslušné\n* wSQL"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Všechny použitelné\n* wSQL"
