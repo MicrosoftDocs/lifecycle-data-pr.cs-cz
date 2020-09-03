@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce ochrany osobních údajů v Microsoft System Center 2012
-  description: Správce ochrany dat v Microsoft System Center 2012 se řídí zásadami pevného životního cyklu.
+  title: Microsoft System Center 2012 Data Protection Manager
+  description: Microsoft System Center 2012 Data Protection Manager se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850850"
-name: Správce ochrany osobních údajů v Microsoft System Center 2012
+name: Microsoft System Center 2012 Data Protection Manager
 summary: >+
-  Správce ochrany dat v Microsoft System Center 2012 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft System Center 2012 Data Protection Manager se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace systémového centra](/system-center/#pivot=components&panel=components-all)\n* [Prostředky systémového centra](https://www.microsoft.com/system-center/resources)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace pro System Center](/system-center/#pivot=components&panel=components-all)\n* [Zdroje pro System Center](https://www.microsoft.com/system-center/resources)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"

@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851098"
 name: Windows Phone 7.8
 summary: >
-  Windows Phone 7.8 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Phone 7.8 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena.
+  > Podpora tohoto produktu skončila.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Společnost Microsoft zpřístupní aktualizace operačního systému v telefonu, včetně aktualizací zabezpečení, po dobu 18 měsíců od data zahájení životního cyklu. Distribuci aktualizací může řídit mobilní operátor nebo výrobce telefonu, od kterého jste telefon zakoupili. Dostupnost aktualizací se také bude lišit podle země, oblasti a hardwarových možností."
+content: "\n\n> [!NOTE]\n> Společnost Microsoft ve Vašem telefonu poskytne aktualizace operačního systému, včetně aktualizací zabezpečení, po dobu 18 měsíců od data zahájení životního cyklu. Distribuci aktualizací může řídit mobilní operátor nebo výrobce telefonu, od kterého jste telefon zakoupili. Dostupnost aktualizací se bude rovněž lišit podle země, oblasti a hardwarových možností."

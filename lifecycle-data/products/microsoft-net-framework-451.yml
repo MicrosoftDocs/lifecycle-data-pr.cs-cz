@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5.1
-  description: Rozhraní Microsoft .NET Framework 4.5.1 se řídí zásadami životního cyklu součástí.
+  description: Microsoft .NET Framework 4.5.1 se řídí komponentními zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850747"
 name: Microsoft .NET Framework 4.5.1
 summary: >+
-  Rozhraní Microsoft .NET Framework 4.5.1 se řídí zásadami životního cyklu [součástí.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.5.1 se řídí [komponentními](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) zásadami životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 01/15/2014
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> 12. ledna 2016 skončila podpora rozhraní .NET Framework 4, 4.5 a 4.5.1."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> Podpora rozhraní .NET Framework 4, 4.5 a 4.5.1 skončila 12. ledna 2016."

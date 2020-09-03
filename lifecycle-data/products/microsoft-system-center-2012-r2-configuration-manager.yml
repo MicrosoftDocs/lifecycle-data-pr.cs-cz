@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce konfigurace Microsoft System Center 2012 R2
-  description: Správce konfigurace Microsoft System Center 2012 R2 se řídí zásadami pevného životního cyklu.
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850734"
-name: Správce konfigurace Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  Správce konfigurace Microsoft System Center 2012 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft System Center 2012 R2 Configuration Manager se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

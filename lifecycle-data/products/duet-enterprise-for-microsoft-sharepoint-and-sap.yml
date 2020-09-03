@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850912"
 name: Duet Enterprise pro Microsoft SharePoint a SAP
 summary: >
-  Duet Enterprise pro Microsoft SharePoint a SAP se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Duet Enterprise pro Microsoft SharePoint a SAP se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena. Tento produkt je prodáván a podporován společností SAP.
+  > Podpora tohoto produktu skončila. Tento produkt je prodáván a podporován společností SAP.
 products:
 - office
 policyType: fixed

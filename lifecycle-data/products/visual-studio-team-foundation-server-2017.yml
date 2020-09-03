@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2017
-  description: Visual Studio Team Foundation Server 2017 se řídí zásadami pevného životního cyklu.
+  description: Visual Studio Team Foundation Server 2017 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: f82a00b0f5bde434fc6b20afb923b8326d269512
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851105"
 name: Visual Studio Team Foundation Server 2017
 summary: >+
-  Visual Studio Team Foundation Server 2017 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Visual Studio Team Foundation Server 2017 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

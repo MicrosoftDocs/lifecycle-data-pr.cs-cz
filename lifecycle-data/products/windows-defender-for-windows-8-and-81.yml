@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Defender pro Windows 8 a 8.1
-  description: Windows Defender Pro Windows 8 a 8.1 se řídí zásadami životního cyklu komponent.
+  title: Windows Defender pro systém Windows 8 a 8.1
+  description: Windows Defender pro Windows 8 a 8.1 se řídí zásadami komponentního životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850665"
-name: Windows Defender pro Windows 8 a 8.1
+name: Windows Defender pro systém Windows 8 a 8.1
 summary: >+
-  Windows Defender Pro Windows 8 a 8.1 se řídí zásadami životního cyklu [komponent.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender pro Windows Server 8 a 8.1 se řídí zásadami [komponentního](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) životního cyklu.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Tato verze se označuje jako komponenta, která sleduje životní cyklus nadřazeného produktu."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Tato verze se označuje jako komponentní a následuje životní cyklus nadřazeného produktu."
