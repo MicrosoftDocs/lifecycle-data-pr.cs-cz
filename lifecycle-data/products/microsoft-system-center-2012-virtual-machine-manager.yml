@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Správce virtuálních strojů Microsoft System Center 2012
-  description: Správce virtuálních strojů Microsoft System Center 2012 se řídí zásadami pevného životního cyklu.
+  description: Správce virtuálních strojů Microsoft System Center 2012 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851067"
 name: Správce virtuálních strojů Microsoft System Center 2012
 summary: >+
-  Správce virtuálních strojů Microsoft System Center 2012 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Správce virtuálních strojů Microsoft System Center 2012 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Dokumentace systémového centra](/system-center/#pivot=components&panel=components-all)\n* [Prostředky systémového centra](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Dokumentace pro System Center](/system-center/#pivot=components&panel=components-all)\n* [Zdroje pro System Center](https://www.microsoft.com/system-center/resources)"

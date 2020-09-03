@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850872"
 name: Windows MultiPoint Server 2011
 summary: >+
-  Windows MultiPoint Server 2011 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows MultiPoint Server 2011 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
-  To platí pro následující vydání: Premium, Standard
+  Toto se vztahuje na následující edice: Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/12/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/windows-server/get-started/installation-and-upgrade)\n* [Informace o produktu](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edice \n* Premium\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/windows-server/get-started/installation-and-upgrade)\n* [Informace o produktu](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Edice \n* Premium\n* Standard"
