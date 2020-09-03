@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile, vydáno v říjnu 2017
-  description: Windows 10 Mobile, vydaný v říjnu 2017, se řídí zásadami pevného životního cyklu.
+  description: Systém Windows 10 Mobile vydaný v říjnu 2017 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868431"
 name: Windows 10 Mobile, vydáno v říjnu 2017
 summary: >
-  Windows 10 Mobile, vydaný v říjnu 2017, se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
+  Systém Windows 10 Mobile vydaný v říjnu 2017 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena.
+  > Podpora tohoto produktu skončila.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu operačního systému zařízení](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile ukončil podporu v prosinci 10, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu operačního systému zařízení](/lifecycle/faq/device-operating-systems)\n* [Podpora systému Windows 10 Mobile skončila 10. prosince 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

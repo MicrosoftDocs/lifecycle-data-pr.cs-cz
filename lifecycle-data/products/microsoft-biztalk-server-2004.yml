@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk Server 2004
-  description: Microsoft BizTalk Server 2004 se řídí zásadami fixní životnosti.
+  description: Microsoft BizTalk Server 2004 se řídí pevnými zásadami životního cyklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893565"
 name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
+  Microsoft BizTalk Server 2004 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující edice: Developer, Enterprise, partner, standardní
+  Toto se vztahuje na následující vydání: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Pojí \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Systému \n* Autora\n* Organizaci\n* Společnosti\n* Objem"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Developer\n* Enterprise\n* Partner\n* Standard"

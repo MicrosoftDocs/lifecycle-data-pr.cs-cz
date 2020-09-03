@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 11
-  description: Internet Explorer 11 se řídí zásadami životnosti komponent.
+  description: Aplikace Internet Explorer 11 se řídí zásadami komponentního životního cyklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893639"
 name: Internet Explorer 11
 summary: >+
-  Internet Explorer 11 se řídí zásadami životnosti [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Aplikace Internet Explorer 11 se řídí [komponentními](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) zásadami životního cyklu.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Pojí \n* [Pokyny k migraci](https://www.microsoft.com/itpro/microsoft-edge)\n* [Zásady životního cyklu Internet Exploreru – Nejčastější dotazy](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12. ledna 2016 bude k dispozici pouze nejnovější verze Internet Exploreru podporovaná pro podporovaný operační systém."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://www.microsoft.com/itpro/microsoft-edge)\n* [Nejčastější dotazy k zásadám životního cyklu aplikace Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Počínaje 12. lednem 2016 dostává pouze nejnovější verze Internet Explorer technickou podporu a aktualizaci zabezpečení pro podporovaný operační systém."

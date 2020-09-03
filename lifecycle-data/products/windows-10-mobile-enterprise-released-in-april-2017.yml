@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, vydáno v dubnu 2017
+  title: Windows 10 Mobile Enterprise, vydaná v dubnu 2017
   description: Windows 10 Mobile Enterprise, vydané v dubnu 2017, se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e5723a855fe7570c41c67907aa258410c83c8ab6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868406"
-name: Windows 10 Mobile Enterprise, vydáno v dubnu 2017
-summary: "Windows 10 Mobile Enterprise, vydané v dubnu 2017, se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. \n"
+name: Windows 10 Mobile Enterprise, vydaná v dubnu 2017
+summary: "Windows 10 Mobile Enterprise, vydané v dubnu 2017, se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 04/25/2017
   endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu operačního systému zařízení](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile ukončil podporu v prosinci 10, 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu operačního systému zařízení](/lifecycle/faq/device-operating-systems)\n* [Podpora systému Windows 10 Mobile skončila 10. prosince 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

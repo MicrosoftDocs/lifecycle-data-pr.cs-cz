@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce operací systémového centra Pololetní kanál
-  description: System Center Operations Manager Pololetní kanál se řídí moderními zásadami životního cyklu.
+  title: System Center Operations Manager, pololetní kanál
+  description: System Center Operations Manager, pololetní kanál se řídí moderními zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1cc9be8f8d34eb92823ef4a44548be49dbe2476
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868483"
-name: Správce operací systémového centra Pololetní kanál
+name: System Center Operations Manager, pololetní kanál
 summary: >
-  System Center Operations Manager Pololetní kanál se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+  System Center Operations Manager, pololetní kanál se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
