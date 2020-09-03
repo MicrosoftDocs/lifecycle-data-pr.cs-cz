@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Systém Windows HPC Server 2008
-  description: Systém Windows HPC Server 2008 se řídí zásadami pevného životního cyklu.
+  title: Windows HPC Server 2008
+  description: Windows HPC Server 2008 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809783"
-name: Systém Windows HPC Server 2008
+name: Windows HPC Server 2008
 summary: >
-  Systém Windows HPC Server 2008 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  WWindows HPC Server 2008 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
-  To platí pro následující edice: Standardní, bez technologie Hyper-V
+  To platí pro následující vydání: Standard, bez Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní\n* bez Hyper-V"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Edice \n* Standard\n* bez Hyper-V"

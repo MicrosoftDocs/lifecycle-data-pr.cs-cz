@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Microsoft Office Project Server 2007
+  title: Microsoft Office Project Server 2007
   description: Microsoft Office Project Server 2007 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 48e17ee16d2f4b27ef54521d79f687a624caa795
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809897"
-name: Server Microsoft Office Project Server 2007
+name: Microsoft Office Project Server 2007
 summary: >+
-  Microsoft Office Project Server 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Office Project Server 2007 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/office/troubleshoot/support/office-2007-not-support)"

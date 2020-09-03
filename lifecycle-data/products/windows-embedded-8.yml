@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809801"
 name: Windows Embedded 8
 summary: >+
-  Windows Embedded 8 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Embedded 8 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
   To platí pro následující edice: Pro, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Zákazníci musí migrovat do systému Windows Emdedded 8.1 zůstat podporovány.\n\n## <a name=\"editions\"></a>Edice \n* Pro\n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Aby si zákazníci zachovali podporu, musí provést migraci do systému Windows Emdedded 8.1.\n\n## <a name=\"editions\"></a>Edice \n* Pro\n* Standard"
