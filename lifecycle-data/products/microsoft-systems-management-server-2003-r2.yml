@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809850"
 name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  Microsoft Systems Management Server 2003 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Systems Management Server 2003 R2 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

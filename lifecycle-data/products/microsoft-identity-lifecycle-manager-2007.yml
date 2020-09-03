@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce životního cyklu identity společnosti Microsoft 2007
-  description: Správce životního cyklu identity společnosti Microsoft 2007 se řídí zásadami pevného životního cyklu.
+  title: Microsoft Identity Lifecycle Manager 2007
+  description: Microsoft Identity Lifecycle Manager 2007 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809591"
-name: Správce životního cyklu identity společnosti Microsoft 2007
+name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Správce životního cyklu identity společnosti Microsoft 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Identity Lifecycle Manager 2007 se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)"

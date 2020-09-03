@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Brána microsoft forefront pro správu hrozeb, medium business edice
+  title: Microsoft Forefront Threat Management Gateway, Medium Business edice
   description: Microsoft Forefront Threat Management Gateway, Medium Business Edition se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809916"
-name: Brána microsoft forefront pro správu hrozeb, medium business edice
+name: Microsoft Forefront Threat Management Gateway, Medium Business edice
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Forefront Threat Management Gateway, Medium Business Edition se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
-  To platí pro následující vydání: Obchodní
+  To platí pro následující edice: Business
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edice \n* Business"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edice \n* Business"

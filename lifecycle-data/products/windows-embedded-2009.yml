@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Vestavěné systémy Windows 2009
-  description: Systém Windows Embedded 2009 se řídí zásadami pevného životního cyklu.
+  title: Windows Embedded 2009
+  description: Windows Embedded 2009 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b701f08089fe9a7208f51de8f7a6d55f839528c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809799"
-name: Vestavěné systémy Windows 2009
+name: Windows Embedded 2009
 summary: >
-  Systém Windows Embedded 2009 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Embedded 2009 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Standardní
+  Toto se vztahuje na následující edice: Standard
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/14/2008
   endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Ukončení podpory systému Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Ukončení podpory pro systém Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Edice \n* Standard"

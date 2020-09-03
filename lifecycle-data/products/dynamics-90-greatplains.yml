@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809369"
 name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Dynamics 9.0 GreatPlains se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Podpora tohoto produktu byla ukončena.
+  > Podpora tohoto produktu skončila.
 products:
 - dynamics
 policyType: fixed

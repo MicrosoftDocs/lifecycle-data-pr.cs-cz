@@ -5,21 +5,21 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809290"
 name: Virtualizace aplikací SoftGrid
 summary: >
-  Virtualizace aplikací SoftGrid se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Virtualizace aplikací SoftGrid se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
-  To platí pro následující edice: 4.1 pro stolní počítače, 4.2 pro stolní počítače, pro Terminálovou službu 4.1
+  Toto se vztahuje na následující edice: 4.1 pro stolní počítače, 4.2 pro stolní počítače, 4.1 pro terminálové služby
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edice \n* 4.1 pro stolní počítače\n* 4.2 pro stolní počítače\n* pro Terminálovou službu 4.1"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edice \n* 4.1 pro stolní počítače\n* 4.2 pro stolní počítače\n* 4.1 pro terminálové služby"

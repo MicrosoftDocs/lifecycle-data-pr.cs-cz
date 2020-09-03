@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office InterConnect 2007
-  description: Microsoft Office InterConnect 2007 se řídí zásadami pevného životního cyklu.
+  description: Microsoft Office InterConnect 2007 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809557"
 name: Microsoft Office InterConnect 2007
 summary: >+
-  Microsoft Office InterConnect 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Office InterConnect 2007 se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  To platí pro následující vydání: Standardní
+  Toto se vztahuje na následující edice: Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edice \n* Standardní"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edice \n* Standard"

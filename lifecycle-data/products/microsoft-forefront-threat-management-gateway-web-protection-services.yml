@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Webová ochrana služby Microsoft Forefront Threat Management Gateway
-  description: Služba Webová ochrana brány Microsoft Forefront Threat Management Gateway se řídí zásadami pevného životního cyklu.
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Microsoft Forefront Threat Management Gateway Web Protection Services se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809915"
-name: Webová ochrana služby Microsoft Forefront Threat Management Gateway
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Služba Webová ochrana brány Microsoft Forefront Threat Management Gateway se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Forefront Threat Management Gateway Web Protection Services se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán pro forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Plán pro bezpečnostní produkty pod značkou Forefront se změnil.Tento produkt je ukončen od prosince 31st, 2015."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán pro Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Plán nasazení pro bezpečnostní produkty pod značkou Forefront se změnil. Tento produkt je ukončen od 31. prosince 2015.\n\n\n"
