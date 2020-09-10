@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Host Integration Server 2004
   description: Microsoft Host Integration Server 2004 se řídí pevnými zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Developer,Enterprise,Standard
+  ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809598"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001863"
 name: Microsoft Host Integration Server 2004
 summary: "Microsoft Host Integration Server 2004 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\nTo platí pro následující edice: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
