@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Řada StorSimple 5000/7000
-  description: Řada StorSimple 5000/7000 se řídí zásadami pevného životního cyklu.
+  title: StorSimple 5000/7000 Series
+  description: Řady StorSimple 5000/7000 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851118"
-name: Řada StorSimple 5000/7000
-summary: "Řada StorSimple 5000/7000 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže. \n"
+name: StorSimple 5000/7000 Series
+summary: "Řady StorSimple 5000/7000 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. Pokyny k migraci naleznete níže. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2012
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

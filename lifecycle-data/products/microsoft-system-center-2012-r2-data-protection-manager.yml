@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce ochrany dat v Microsoft System Center 2012 R2
-  description: Správce ochrany dat microsoft System Center 2012 R2 se řídí zásadami pevného životního cyklu.
+  title: Microsoft System Center 2012 R2 Data Protection Manager
+  description: Microsoft System Center 2012 R2 Data Protection Manager se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850942"
-name: Správce ochrany dat v Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Data Protection Manager
 summary: >+
-  Správce ochrany dat microsoft System Center 2012 R2 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft System Center 2012 R2 Data Protection Manager se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace systémového centra](/system-center/#pivot=components&panel=components-all)\n* [Prostředky systémového centra](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace pro System Center](/system-center/#pivot=components&panel=components-all)\n* [Zdroje pro System Center](https://www.microsoft.com/system-center/resources)"

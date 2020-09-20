@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikace Microsoft Office Groove 2007
-  description: Aplikace Microsoft Office Groove 2007 se řídí zásadami pevného životního cyklu.
+  title: Microsoft Office Groove 2007
+  description: Microsoft Office Groove 2007 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809561"
-name: Aplikace Microsoft Office Groove 2007
-summary: "Aplikace Microsoft Office Groove 2007 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. \n"
+name: Microsoft Office Groove 2007
+summary: "Microsoft Office Groove 2007 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/office/troubleshoot/support/office-2007-not-support)"

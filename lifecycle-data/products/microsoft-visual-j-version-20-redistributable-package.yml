@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# verze 2.0 Redistributable Package
-  description: Microsoft Visual J# verze 2.0 Redistributable package se řídí zásadami pevného životního cyklu.
+  title: Microsoft Visual J# verze 2.0 Redistribuovatelný balíček
+  description: Microsoft Visual J# verze 2.0 Redistribuovatelný balíček se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809456"
-name: Microsoft Visual J# verze 2.0 Redistributable Package
+name: Microsoft Visual J# verze 2.0 Redistribuovatelný balíček
 summary: >+
-  Microsoft Visual J# verze 2.0 Redistributable package se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Visual J# verze 2.0 Redistribuovatelný balíček se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o podpoře visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Podpora tohoto produktu byla ukončena. Pokyny pro migraci najdete níže."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o podpoře Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Podpora tohoto produktu skončila. Návod pro migraci najdete níže."

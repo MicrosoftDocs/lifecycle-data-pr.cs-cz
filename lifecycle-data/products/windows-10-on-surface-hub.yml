@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 na Surface Hubu
-  description: Windows 10 na Surface Hubu se řídí zásadami pevného životního cyklu.
+  title: Windows 10 na Surface Hub
+  description: Windows 10 Surface Hub se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850670"
-name: Windows 10 na Surface Hubu
+name: Windows 10 na Surface Hub
 summary: >+
-  Windows 10 na Surface Hubu se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows 10 Surface Hub se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Aktualizace windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Podívejte se na stránku Aktualizace Windows (Surface Hub), abyste se ujistili, že dostáváte nejnovější aktualizace Surface Hubu."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows updates (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Chcete-li se ujistit, že získáváte nejnovější aktualizace pro Surface Hub, přečtěte si stránku aktualizace systému Windows (Surface Hub)."

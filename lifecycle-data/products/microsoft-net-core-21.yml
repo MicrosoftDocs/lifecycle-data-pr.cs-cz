@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850749"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán .NET](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Informace o údržbě](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Nejčastější dotazy k životnímu cyklu – .NET Core](/lifecycle/faq/dotnet-core)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [.NET roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Servisní informace](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Nejčastější dotazy k životnímu cyklu – .NET Core](/lifecycle/faq/dotnet-core)"
