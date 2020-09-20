@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016 pro Mac
-  description: Microsoft Office 2016 pro Mac se řídí zásadami pro fixní životnost.
+  description: Microsoft Office 2016 pro Mac se řídí zásadami pevného životního cyklu.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936293"
 name: Microsoft Office 2016 pro Mac
 summary: >+
-  Microsoft Office 2016 pro Mac se řídí zásadami pro [fixní](/lifecycle/policies/fixed) životnost.
+  Microsoft Office 2016 pro Mac se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
-  Platí pro tyto edice: domů a podnikatel, domácí a student, standardní
+  Toto se vztahuje na následující edice: Home and Business, Home and Student, Standard
 
 products:
 - office

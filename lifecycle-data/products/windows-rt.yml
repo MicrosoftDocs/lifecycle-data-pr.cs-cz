@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows RT
-  description: Windows RT sleduje fixní životnost zásad.
+  description: Systém Windows RT se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: 8.0999999999999996
   ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939697"
 name: Windows RT
 summary: >+
-  Windows RT sleduje [fixní](/lifecycle/policies/fixed) životnost zásad.
+  Systém Windows RT se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Platí pro následující edice: 8,1
+  Toto se vztahuje na následující edice: 8.1
 
 products:
 - windows
@@ -31,4 +31,4 @@ releases:
 - version: Windows RT
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Časté otázky k Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edice \n* 8,1"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edice \n* 8.1"
