@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Systém Cloud Platform
-  description: Systém Cloud Platform sleduje zásady fixní životnosti.
+  description: Cloud Platform System se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932038"
 name: Systém Cloud Platform
 summary: >+
-  Systém Cloud Platform sleduje zásady [fixní](/lifecycle/policies/fixed) životnosti.
+  Cloud Platform System se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
   Toto se vztahuje na následující edice: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podpora pro systém Cloud Platform je rozšířená, aby poskytovala všechny zákazníky s časovou osou přechodu standardní cyklus.\n> [!NOTE]\n> Standard Cloud Platform System Standard jsme vypnuli 18. září 2017.\n\n## <a name=\"editions\"></a>Edice \n* Standard"
+content: "\n\n> [!NOTE]\n> Hlavní fáze podpory Cloud Platform System je rozšířena, jak je znázorněno, aby všem zákazníkům poskytla standardní časovou osu přechodu životního cyklu.\n> [!NOTE]\n> Cloud Platform System byl spuštěn 18. září 2017.\n\n## <a name=\"editions\"></a>Edice \n* Standard"

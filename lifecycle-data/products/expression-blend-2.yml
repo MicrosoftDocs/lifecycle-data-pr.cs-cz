@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Výraz 2
-  description: Výraz 2 se řídí zásadami fixní životnosti.
+  title: Expression 2
+  description: Expression 2 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930817"
-name: Výraz 2
-summary: "Výraz 2 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio, Web\n\n> [!IMPORTANT]\n> Pro tento produkt byla ukončena podpora. \n"
+name: Expression 2
+summary: "Expression 2 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\nToto se vztahuje na následující edice: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Směsné\n* Vločk\n* Encoder\n* Sady\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"
