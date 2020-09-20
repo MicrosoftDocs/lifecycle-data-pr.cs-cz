@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Expres
-  description: Výraz se řídí zásadami fixní životnosti.
+  title: Expression
+  description: Expression se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936219"
-name: Expres
-summary: "Výraz se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.\n\nTo platí pro následující edice: Blend, design, kodér, Studio\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
+name: Expression
+summary: "Expression se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\nToto se vztahuje na následující edice: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Počáteční datum pro sloučení výrazů je 13. července 2007. \n\n## <a name=\"editions\"></a>Edice \n* Směsné\n* Vločk\n* Encoder\n* Sady"
+content: "\n\n> [!NOTE]\n> Počáteční datum Expression Blend je 13. července 2007. \n\n## <a name=\"editions\"></a>Edice \n* Blend\n* Design\n* Encoder\n* Studio"
