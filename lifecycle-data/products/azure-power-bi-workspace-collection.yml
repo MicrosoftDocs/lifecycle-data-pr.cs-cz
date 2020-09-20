@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Kolekce pracovních prostorů Azure Power BI
+  title: Azure Power BI Workspace Collection
   description: Azure Power BI Workspace Collection se řídí moderními zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850636"
-name: Kolekce pracovních prostorů Azure Power BI
+name: Azure Power BI Workspace Collection
 summary: >
-  Azure Power BI Workspace Collection se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+  Azure Power BI Workspace Collection se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu
 
 
 
   > [!IMPORTANT]
 
-  > Podpora skončila. Viz pokyny pro migraci níže.
+  > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

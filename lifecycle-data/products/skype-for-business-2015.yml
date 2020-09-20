@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype pro firmy 2015
-  description: Skype pro firmy 2015 se řídí zásadami pevného životního cyklu.
+  title: Skype for Business 2015
+  description: Skype for Business 2015 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851025"
-name: Skype pro firmy 2015
+name: Skype for Business 2015
 summary: >+
-  Skype pro firmy 2015 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Skype for Business 2015 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Klient: Verze klienta Skypu pro firmy 2015 je aktualizace klienta Lyncu 2013 a bude se řídit stejným životním cyklem produktu."
+content: "\n\n> [!NOTE]\n> Client: Verze klienta Skypu pro firmy 2015 je aktualizace klienta Lync 2013 a bude se řídit stejným životním cyklem produktu."

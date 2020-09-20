@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server Hyper-V 2008
-  description: Server Hyper-V Server 2008 se řídí zásadami pevného životního cyklu.
+  title: Hyper-V Server 2008
+  description: Hyper-V Server 2008 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd8d2e95bcfd7b35689eea4aab205a9e22550440
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810020"
-name: Server Hyper-V 2008
-summary: "Server Hyper-V Server 2008 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. Viz pokyny pro migraci níže. \n"
+name: Hyper-V Server 2008
+summary: "Hyper-V Server 2008 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. Pokyny k migraci naleznete níže. \n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/windows-server/get-started/modernize-windows-server-2008)"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850750"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/01/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](/machine-learning-server/resources-servicing-support)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/machine-learning-server/resources-servicing-support)"

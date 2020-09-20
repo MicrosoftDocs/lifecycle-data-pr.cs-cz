@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809334"
 name: Součásti Microsoft Office XP Web Components v sadě Office 2003
 summary: >+
-  Součásti Microsoft Office XP Web Components v sadě Office 2003 se řídí zásadami životního cyklu [součástí.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Součásti Microsoft Office XP Web Components v sadě Office 2003 se řídí [komponentními](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) zásadami životního cyklu.
 
 
 products:

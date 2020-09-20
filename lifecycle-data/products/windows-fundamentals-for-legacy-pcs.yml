@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Základy systému Windows pro starší počítače
-  description: Základy systému Windows pro starší počítače se řídí zásadami pevného životního cyklu.
+  title: Windows Fundamentals pro počítače Legacy
+  description: Windows Fundamentals pro počítače Legacy se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809268"
-name: Základy systému Windows pro starší počítače
+name: Windows Fundamentals pro počítače Legacy
 summary: >+
-  Základy systému Windows pro starší počítače se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Fundamentals pro počítače Legacy se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

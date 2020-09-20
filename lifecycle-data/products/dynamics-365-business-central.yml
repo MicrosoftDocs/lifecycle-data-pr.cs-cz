@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850911"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán aplikace Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informace o údržbě](/dynamics365/business-central/dev-itpro/faq)\n* [Požadavky na systém](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Plán pro Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Servisní informace](/dynamics365/business-central/dev-itpro/faq)\n* [Požadavky systému](/dynamics365/business-central/product-requirements)"

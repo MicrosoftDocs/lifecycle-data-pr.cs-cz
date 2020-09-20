@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Word pro Mac 2011
-  description: Microsoft Word for Mac 2011 se řídí zásadami pevného životního cyklu.
+  description: Microsoft Word pro Mac 2011 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850890"
 name: Microsoft Word pro Mac 2011
-summary: "Microsoft Word for Mac 2011 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu byla ukončena. \n"
+summary: "Microsoft Word pro Mac 2011 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Hlavní fáze podpory microsoft office for Mac 2011 byla rozšířena, jak je znázorněno, aby všem zákazníkům poskytla standardní časovou osu přechodu životního cyklu."
+content: "\n\n> [!NOTE]\n> Hlavní fáze podpory Microsoft Office pro Mac 2011 je rozšířena, jak je znázorněno, aby všem zákazníkům poskytla standardní časovou osu přechodu životního cyklu."
