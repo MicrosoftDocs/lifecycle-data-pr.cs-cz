@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rozložení Dynamics 365
-  description: Rozložení Dynamics 365 sleduje moderní zásady životního cyklu.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout se řídí zásadami moderního životního cyklu.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891835"
-name: Rozložení Dynamics 365
+name: Dynamics 365 Layout
 summary: >+
-  Rozložení Dynamics 365 sleduje [moderní](/lifecycle/policies/modern) zásady životního cyklu.
+  Dynamics 365 Layout se řídí zásadami [moderního](/lifecycle/policies/modern) životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Pojí \n* [Rozložení a Vzdálená pomoc](/dynamics365/mixed-reality/layout/faq)\n* [Oznámení přechodu na rozložení Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Layout a Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Oznámení přechodu Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
