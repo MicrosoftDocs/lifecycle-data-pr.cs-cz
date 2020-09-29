@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Sada Microsoft PlayReady Server Software Development Kit '
-  description: Sada Microsoft PlayReady Server Software Development Kit se řídí zásadami fixní životnosti.
+  title: 'Microsoft PlayReady Server Software Development Kit '
+  description: Microsoft PlayReady Server Software Development Kit se řídí zásadami pevného životního cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908014"
-name: 'Sada Microsoft PlayReady Server Software Development Kit '
+name: 'Microsoft PlayReady Server Software Development Kit '
 summary: >+
-  Sada Microsoft PlayReady Server Software Development Kit se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
+  Microsoft PlayReady Server Software Development Ki se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

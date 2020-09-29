@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio portály v6. x nebo dřívější
-  description: Adxstudio portály v6. x nebo dřívější následují zásady fixní životnosti.
+  title: Adxstudio Portals v6.x nebo předchozí
+  description: Adxstudio Portals v6.x nebo předchozí se řídí zásadami pevného životního cyklu.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924340"
-name: Adxstudio portály v6. x nebo dřívější
+name: Adxstudio Portals v6.x nebo předchozí
 summary: >+
-  Adxstudio portály v6. x nebo dřívější následují zásady [fixní](/lifecycle/policies/fixed) životnosti.
+  Adxstudio Portals v6.x nebo předchozí se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Časté otázky týkající se cyklu životnosti](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Podpora pro tento produkt podléhá podmínkám jeho nabytí a skončila."
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy týkající se životního cyklu – Akvizice](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Podpora pro tento produkt, která se řídí podmínkami platnými při jeho nákupu, skončila."

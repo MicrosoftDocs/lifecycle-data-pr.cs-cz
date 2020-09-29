@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Inteligentní brána aplikace Whale Communications
-  description: Inteligentní brána Whale komunikace se řídí zásadami fixní životnosti.
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway se řídí pevnými zásadami životního cyklu.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907133"
-name: Inteligentní brána aplikace Whale Communications
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Inteligentní brána Whale komunikace se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
+  Whale Communications Intelligent Application Gateway se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
