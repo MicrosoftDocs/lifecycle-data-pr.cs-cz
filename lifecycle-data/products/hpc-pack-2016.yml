@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Balíček HPC 2016
+  title: HPC Pack 2016
   description: HPC Pack 2016 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850802"
-name: Balíček HPC 2016
+name: HPC Pack 2016
 summary: >+
-  HPC Pack 2016 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  HPC Pack 2016 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sada nástrojů Microsoft Diagnostics and Recovery 6.5
-  description: Microsoft Diagnostika a obnovení Toolset 6.5 takto pevné zásady životního cyklu.
+  title: Sada nástrojů pro diagnostiku a obnovení společnosti Microsoft 6.5
+  description: Sada nástrojů Microsoft pro diagnostiku a obnovení 6.5 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809931"
-name: Sada nástrojů Microsoft Diagnostics and Recovery 6.5
+name: Sada nástrojů pro diagnostiku a obnovení společnosti Microsoft 6.5
 summary: >+
-  Microsoft Diagnostika a obnovení Toolset 6.5 takto [pevné](/lifecycle/policies/fixed) zásady životního cyklu.
+  Sada nástrojů Microsoft pro diagnostiku a obnovení 6.5 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

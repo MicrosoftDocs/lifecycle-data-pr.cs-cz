@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850976"
 name: Dynamics NAV 2017
 summary: >+
-  Dynamics NAV 2017 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Dynamics NAV 2017 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

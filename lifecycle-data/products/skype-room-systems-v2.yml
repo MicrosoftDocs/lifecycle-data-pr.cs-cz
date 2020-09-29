@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype pokojové systémy v2
-  description: Skype Room Systems v2 se řídí moderními zásadami životního cyklu.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2 se řídí zásadami moderního životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851021"
-name: Skype pokojové systémy v2
+name: Skype Room Systems v2
 summary: >+
-  Skype Room Systems v2 se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+  Skype Room Systems v2 se řídí zásadami [moderního](/lifecycle/policies/modern) životního cyklu.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

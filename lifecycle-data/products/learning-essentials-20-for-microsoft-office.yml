@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Výuka essentials 2.0 pro Microsoft Office
+  title: Learning Essentials 2.0 pro Microsoft Office
   description: Learning Essentials 2.0 pro Microsoft Office se řídí zásadami životního cyklu komponent.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "810003"
-name: Výuka essentials 2.0 pro Microsoft Office
+name: Learning Essentials 2.0 pro Microsoft Office
 summary: >+
-  Learning Essentials 2.0 pro Microsoft Office se řídí zásadami životního cyklu [komponent.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Learning Essentials 2.0 pro Microsoft Office se řídí zásadami životního cyklu [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

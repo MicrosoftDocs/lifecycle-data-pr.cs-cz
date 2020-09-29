@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sada nástrojů Microsoft Diagnostics and Recovery Toolset 7.0
-  description: Microsoft Diagnostika a obnovení Toolset 7.0 takto pevné zásady životního cyklu.
+  title: Microsoft Diagnostics and Recovery Toolset 7.0
+  description: Sada nástrojů Microsoft pro diagnostiku a obnovení 7.0 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1ae88ae75ff9aa63d4c88e100393608f958300e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850770"
-name: Sada nástrojů Microsoft Diagnostics and Recovery Toolset 7.0
+name: Microsoft Diagnostics and Recovery Toolset 7.0
 summary: >+
-  Microsoft Diagnostika a obnovení Toolset 7.0 takto [pevné](/lifecycle/policies/fixed) zásady životního cyklu.
+  Sada nástrojů Microsoft pro diagnostiku a obnovení 7.0 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

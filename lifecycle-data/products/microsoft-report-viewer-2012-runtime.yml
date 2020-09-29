@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850948"
 name: Microsoft Report Viewer 2012 Runtime
 summary: >+
-  Microsoft Report Viewer 2012 Runtime se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Report Viewer 2012 Runtime se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
