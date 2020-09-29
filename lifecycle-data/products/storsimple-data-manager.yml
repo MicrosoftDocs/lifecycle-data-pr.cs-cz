@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce dat StorSimple
-  description: Správce dat StorSimple se řídí zásadami pevného životního cyklu.
+  title: StorSimple Data Manager
+  description: StorSimple Data Manager se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868424"
-name: Správce dat StorSimple
+name: StorSimple Data Manager
 summary: >+
-  Správce dat StorSimple se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  StorSimple Data Manager se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 32b0f510b582e9c918a5e47ca02792837028cc91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868433"
 name: Správce ochrany dat System Center 2019
 summary: >+
-  Správce ochrany dat System Center 2019 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Správce ochrany dat System Center 2019 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
