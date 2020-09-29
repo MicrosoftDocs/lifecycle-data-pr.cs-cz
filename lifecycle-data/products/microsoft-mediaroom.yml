@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom sleduje fixní životnost zásad.
+  description: Microsoft Mediaroom se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930595"
 name: Microsoft Mediaroom
 summary: >+
-  Microsoft Mediaroom sleduje [fixní](/lifecycle/policies/fixed) životnost zásad.
+  Microsoft Mediaroom se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Platí to pro následující edice: služby aplikací 1,0, Client 2,0, Client 2,1, Server 2,0, Server 2,1
+  Toto se vztahuje na následující edice: Aplikační služby 1.0, Klient 2.0, Klient 2.1, Server 2.0, Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson získali produkty Microsoft Mediaroom v 2013. Další informace najdete v článku [tisková verze](http://www.ericsson.com/news/1691160). Pro zákazníky, kteří potřebují podporu, přejděte [sem](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Klient 2,1 Microsoft Mediaroom byl vydán 27. prosince 2011. \n\n## <a name=\"editions\"></a>Edice \n* Služby aplikací 1,0\n* Klient 2,0\n* Klient 2,1\n* Server 2,0\n* Server 2,1"
+content: "\n\n> [!NOTE]\n> Společnost Ericsson získala produkty Microsoft Mediaroom v roce 2013. Další informace jsou dostupné v [tiskové zprávě](http://www.ericsson.com/news/1691160). Pro zákazníky, kteří potřebují podporu, přejděte [sem](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 byl vydán 27. prosince 2011. \n\n## <a name=\"editions\"></a>Edice \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
