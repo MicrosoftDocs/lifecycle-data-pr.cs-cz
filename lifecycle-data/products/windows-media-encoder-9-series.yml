@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Media Encoder 9 Series
-  description: Program Windows Media Encoder 9 Series sleduje zásady fixní životnosti.
+  description: Windows Media Encoder 9 Series se řídí zásadami pevného životního cyklu.
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939993"
 name: Windows Media Encoder 9 Series
 summary: >+
-  Program Windows Media Encoder 9 Series sleduje zásady [fixní](/lifecycle/policies/fixed) životnosti.
+  Windows Media Encoder 9 Series se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Platí pro následující edice: 64 bit, standardní
+  Toto se vztahuje na následující edice: 64 Bit, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition vydaný na 15. září 2005.\n\n## <a name=\"editions\"></a>Edice \n* 64 bitů\n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition vydané 15. září 2005.\n\n## <a name=\"editions\"></a>Edice \n* 64 bitů\n* Standard"
