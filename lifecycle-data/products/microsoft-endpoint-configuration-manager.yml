@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Správce konfigurace Microsoft Endpoint
-  description: Nástroj Microsoft Endpoint Configuration Manager sleduje moderní zásady životního cyklu.
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager se řídí moderními zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934036"
-name: Správce konfigurace Microsoft Endpoint
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Nástroj Microsoft Endpoint Configuration Manager sleduje [moderní](/lifecycle/policies/modern) zásady životního cyklu.
+  Microsoft Endpoint Configuration Manager se řídí [Moderními](/lifecycle/policies/modern) zásadami životního cyklu.
 
 
 
   > [!IMPORTANT]
 
-  > Ve verzi 1910 se teď účastní nástroj Configuration Manager.
+  > Počínaje verzí 1910 je Configuration Manager součástí Správce koncových bodů společnosti Microsoft.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Podrobnosti o verzi](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager je teď Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historické verze](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co je Configuration Manager](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Podrobnosti verze](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager je nyní Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Historické verze](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co je Configuration Manager](/mem/configmgr/core/understand/introduction)"
