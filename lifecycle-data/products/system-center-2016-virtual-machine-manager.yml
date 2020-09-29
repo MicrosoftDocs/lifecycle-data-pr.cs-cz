@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850938"
 name: Správce virtuálních strojů System Center 2016
 summary: >+
-  Správce virtuálních strojů System Center 2016 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Správce virtuálních strojů System Center 2016 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Plánovač Azure
-  description: Azure Scheduler se řídí moderními zásadami životního cyklu.
+  description: Plánovač Azure se řídí zásadami moderního životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850628"
 name: Plánovač Azure
 summary: >+
-  Azure Scheduler se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+  Plánovač Azure se řídí zásadami [moderního](/lifecycle/policies/modern) životního cyklu.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

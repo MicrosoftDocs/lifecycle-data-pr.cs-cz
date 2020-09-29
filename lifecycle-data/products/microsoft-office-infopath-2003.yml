@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikace Microsoft Office InfoPath 2003
-  description: Aplikace Microsoft Office InfoPath 2003 se řídí zásadami pevného životního cyklu.
+  title: Microsoft Office InfoPath 2003
+  description: Microsoft Office InfoPath 2003 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: c490e0240e02cc438b919d05116dc8595f3fedc3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "809559"
-name: Aplikace Microsoft Office InfoPath 2003
+name: Microsoft Office InfoPath 2003
 summary: >+
-  Aplikace Microsoft Office InfoPath 2003 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Microsoft Office InfoPath 2003 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

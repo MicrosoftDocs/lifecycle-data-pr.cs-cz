@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualizace uživatelského prostředí (UE-V) 2.0
-  description: Virtualizace uživatelského prostředí (UE-V) 2.0 se řídí zásadami pevného životního cyklu.
+  title: User Experience Virtualization (UE-V) 2.0
+  description: User Experience Virtualization (UE-V) 2.0 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3841751d17e2cfa1ffb201c687291390831cdb8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851047"
-name: Virtualizace uživatelského prostředí (UE-V) 2.0
+name: User Experience Virtualization (UE-V) 2.0
 summary: >+
-  Virtualizace uživatelského prostředí (UE-V) 2.0 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  User Experience Virtualization (UE-V) 2.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:

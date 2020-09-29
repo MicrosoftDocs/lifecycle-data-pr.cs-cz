@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "851042"
 name: Windows Embedded Compact 7
 summary: >+
-  Windows Embedded Compact 7 se řídí [zásadami pevného](/lifecycle/policies/fixed) životního cyklu.
+  Windows Embedded Compact 7 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Pokyny pro migraci](https://support.microsoft.com/help/4057281)"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://support.microsoft.com/help/4057281)"
