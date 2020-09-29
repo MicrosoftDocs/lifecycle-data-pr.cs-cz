@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2016
-  description: Access 2016 se řídí zásadami pro fixní životnost.
+  description: Access 2016 se řídí zásadami pevného životního cyklu.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 98a71f2b9f489d7d1f30a0177e4389ea9c4f5897
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940104"
 name: Access 2016
 summary: >+
-  Access 2016 se řídí zásadami pro [fixní](/lifecycle/policies/fixed) životnost.
+  Access 2016 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
   Toto se vztahuje na následující edice: Standard

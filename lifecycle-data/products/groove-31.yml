@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Aplikace Groove 3,1
-  description: Aplikace Groove 3,1 se řídí zásadami fixní životnosti.
+  title: Groove 3.1
+  description: Groove 3.1 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: cs-CZ
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950823"
-name: Aplikace Groove 3,1
+name: Groove 3.1
 summary: >+
-  Aplikace Groove 3,1 se řídí zásadami [fixní](/lifecycle/policies/fixed) životnosti.
+  Groove 3.1 se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Týká se to následujících edicí: podniková služba zálohování, podnikový datový most, podnikový přenosový Server, hostované služby správy, hostované služby pro přenos, Office Project, Virtual Office File Sharing, Virtual Office Professional, sada Web Services Development Kit
+  Toto se vztahuje na následující edice: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Služba podniková záloha\n* Podnikový datový most\n* Podnikový přenosoví Server\n* Hostované služby pro správu\n* Hostované služby přenosu\n* Office Project\n* Virtuální sdílení souborů Office\n* Virtual Office Professional\n* Web Services Development Kit"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
