@@ -2,22 +2,16 @@
 metadata:
   title: Skype for Business Online
   description: Skype for Business Online se řídí moderními zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "851023"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162178"
 name: Skype for Business Online
-summary: >
-  Skype for Business Online se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
-
-
-
-  > [!IMPORTANT]
-
-  > Tato služba bude vyřazena 31. července 2021. Návod pro migraci najdete níže.
+summary: "Skype for Business Online se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Tato služba bude vyřazena 31. července 2021. Návod pro migraci najdete níže. [Zde](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) se dozvíte o dopadu na hybridní nasazení hlasu. \n"
 products:
 - office
 policyType: modern-online
