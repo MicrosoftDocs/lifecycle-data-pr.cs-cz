@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "928782"
 name: Office XP
 summary: >+
-  Office XP se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+  Office XP se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
   Toto se vztahuje na následující edice: Developer, Professional, Proofing Tools, Standard, Web Components
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Developer\n* Professional\n* Nástroje kontroly pravopisu\n* Standard\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Edice \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"
