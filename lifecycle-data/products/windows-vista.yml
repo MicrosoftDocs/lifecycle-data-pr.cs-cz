@@ -15,7 +15,7 @@ summary: >
   Systém Windows Vista se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-  Toto se vztahuje na následující edice: Business, Business N, Business N 64bitové, Enterprise, Enterprise X64, Home Basic, Home Basic 64bitové, Home Basic N, Home Basic N 64bitové, Home Premium, Home Premium 64bitové, Starter, Ultimate, Ultimate 64bitové
+  Toto se vztahuje na následující edice: Business, Business N, Business N 64-bit, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Důležité informace o upgradu a migraci systému Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Business\n* Business N\n* Business N 64bitové\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Důležité informace o upgradu a migraci systému Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Business\n* Business N\n* Business N 64-bit\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

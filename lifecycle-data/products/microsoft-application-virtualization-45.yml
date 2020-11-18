@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Protože klient App-V 4.6 využívá server App-V 4.5, bude server App-V 4.5 nadále podporován podle dat životního cyklu aplikace App-V 4.6 při použití s podporovaným klientem App-V 4.6.\n\n## <a name=\"editions\"></a>Edice \n* for Terminal Services\n* pro Windows Desktops"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Protože klient App-V 4.6 využívá server App-V 4.5, bude server App-V 4.5 nadále podporován podle dat životního cyklu aplikace App-V 4.6 při použití s podporovaným klientem App-V 4.6.\n\n## <a name=\"editions\"></a>Edice \n* for Terminal Services\n* for Windows Desktops"

@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937551"
 name: Visual Studio 2008
-summary: "Visual Studio 2008 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: All, Pro s MSDN Premium, Professional, Professional s MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
+summary: "Visual Studio 2008 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Všechny, Pro s MSDN Premium, Professional, Professional s MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express\n\n"
 products:
 - vs
 policyType: fixed
