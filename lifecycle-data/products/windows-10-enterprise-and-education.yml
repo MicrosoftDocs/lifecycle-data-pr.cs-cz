@@ -2,16 +2,16 @@
 metadata:
   title: Windows 10 Enterprise a Education
   description: Windows 10 Enterprise a Education se řídí moderními zásadami životního cyklu.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162511"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449212"
 name: Windows 10 Enterprise a Education
-summary: "Windows 10 Enterprise a Education se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Education, Enterprise\n\n> [!IMPORTANT]\n> Společnost Microsoft bude i nadále podporovat alespoň jeden pololetní kanál systému Windows 10 až do 14. října 2025.\n"
+summary: "Windows 10 Enterprise a Education se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Education, Enterprise\n\n> [!IMPORTANT]\n> Společnost Microsoft bude i nadále podporovat alespoň jeden pololetní kanál systému Windows 10 až do 14. října 2025.\nNíže uvedená tabulka odráží dosud vydané verze.\n"
 products:
 - windows
 policyType: modern-on-prem
@@ -52,4 +52,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informace o produktu](/windows/windows-10/)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pokud nedojde k odložení, mohou být následné aktualizace funkce půlročního kanálu systému Windows 10 instalovány před uvedeným koncem data hlavní fáze technické podpory.\n\n## <a name=\"editions\"></a>Edice \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home a Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Informace o produktu](/windows/windows-10/)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pokud nedojde k odložení, mohou být následné aktualizace funkce půlročního kanálu systému Windows 10 instalovány před uvedeným koncem data hlavní fáze technické podpory.\n\n## <a name=\"editions\"></a>Edice \n* Education\n* Enterprise"
