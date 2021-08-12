@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850709"
 name: Wunderlist
-summary: "Wunderlist se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu. Podpora tohoto produktu skončila. Pokyny k migraci naleznete níže. \n"
+summary: |
+  Wunderlist se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+
+
+  > [!IMPORTANT]
+  > Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu. Podpora tohoto produktu skončila. Pokyny k migraci naleznete níže. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Návod k migraci](https://www.wunderlist.com/blog/join-us-on-our-new-journey)

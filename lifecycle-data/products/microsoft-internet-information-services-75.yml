@@ -3,23 +3,22 @@ metadata:
   title: Internetová informační služba společnosti Microsoft 7.5
   description: Internetová informační služba společnosti Microsoft 7.5 se řídí zásadami komponentního životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "810285"
 name: Internetová informační služba společnosti Microsoft 7.5
-summary: >+
+summary: |+
   Služba Microsoft Windows SharePoint Services 7.5 se řídí zásadami [komponentního](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) životního cyklu.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/22/2009
 releases:
-- version: Original Release
-  startDate: 10/22/2009
-content: "> [!TIP]\n> Tato verze je známá jako komponenta a řídí se životním cyklem podpory nadřazeného hlavního produktu, Windows 7 a Windows Server 2008 R2\n\n## <a name=\"links\"></a>Odkazy \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+  - version: Original Release
+    startDate: 10/22/2009
+content: |+
+  > [!TIP]
+  > Tato verze je známá jako komponenta a řídí se životním cyklem podpory nadřazeného hlavního produktu, Windows 7 a Windows Server 2008 R2
+
+  ## <a name="links"></a>Odkazy 
+  * [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)

@@ -3,22 +3,25 @@ metadata:
   title: Microsoft Word pro Mac 2011
   description: Microsoft Word pro Mac 2011 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850890"
 name: Microsoft Word pro Mac 2011
-summary: "Microsoft Word pro Mac 2011 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.\n\n\n> [!IMPORTANT]\n> Podpora tohoto produktu skončila. \n"
+summary: |
+  Microsoft Word pro Mac 2011 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+
+
+  > [!IMPORTANT]
+  > Podpora tohoto produktu skončila. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Hlavní fáze podpory Microsoft Office pro Mac 2011 je rozšířena, jak je znázorněno, aby všem zákazníkům poskytla standardní časovou osu přechodu životního cyklu."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > Hlavní fáze podpory Microsoft Office pro Mac 2011 je rozšířena, jak je znázorněno, aby všem zákazníkům poskytla standardní časovou osu přechodu životního cyklu.
