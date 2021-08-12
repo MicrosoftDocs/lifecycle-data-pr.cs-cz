@@ -3,12 +3,12 @@ metadata:
   title: BizTalk adaptér pro Web Services Enhancement 2.0
   description: BizTalk adaptér pro Web Services Enhancement 2.0 se řídí zásadami pevného životního cyklu.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.openlocfilehash: 5d3f1279bf77c9ba1eb3612868b64327e96f4eb8846e35ab1edbbb5ad52985e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903938"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496211"
 name: BizTalk adaptér pro Web Services Enhancement 2.0
 summary: >+
   BizTalk adaptér pro vylepšení webových služeb 2.0 se řídí zásadami [Pevného](/lifecycle/policies/fixed) životního cyklu.
