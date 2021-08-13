@@ -3,24 +3,22 @@ metadata:
   title: FSLogix
   description: FSLogix se řídí moderními zásadami životního cyklu.
   ms.date: 12/07/2020
-  keywords: 
-  ms.openlocfilehash: dfb32452fc063ade9afd59e990b13f3e93c3f76a
-  ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "1335803"
+  keywords: null
 name: FSLogix
-summary: >+
+summary: |+
   FSLogix se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 06/05/2020
 releases:
-- version: Original Release
-  startDate: 06/05/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Stažení a instalace FSLogix](/fslogix/install-ht)\n* [Jak otevřít žádost o podporu FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)"
+  - version: Original Release
+    startDate: 06/05/2020
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Stažení a instalace FSLogix](/fslogix/install-ht)
+  * [Jak otevřít žádost o podporu FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)
