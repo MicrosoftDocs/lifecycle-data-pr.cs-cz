@@ -3,29 +3,34 @@ metadata:
   title: Winternals
   description: Winternals se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
-  keywords: Administrator's Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0
-  ms.openlocfilehash: 23c4939c233902db0803caa6a5de406ab138bcb4
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938698"
+  keywords: 'Administrator''s Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0'
 name: Winternals
-summary: >+
+summary: |+
   Winternals se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
-
 
   Toto se vztahuje na následující edice: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
   extendedEnd: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Zásady životního cyklu pro akvizice Microsoftu](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Nevztahuje se na verze, kterým již byla ukončena podpora. Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu.\n\n## <a name=\"editions\"></a>Edice \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Zásady životního cyklu pro akvizice Microsoftu](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)
+
+  > [!NOTE]
+  > Nevztahuje se na verze, kterým již byla ukončena podpora. Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu.
+
+  ## <a name="editions"></a>Edice 
+  * Administrator's Pak 5.0
+  * Defrag Manager 3.0
+  * Protection Manager 2.0
+  * Recovery Manager 3.0

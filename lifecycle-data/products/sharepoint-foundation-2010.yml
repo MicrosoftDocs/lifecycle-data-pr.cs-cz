@@ -4,32 +4,35 @@ metadata:
   description: SharePoint Foundation 2010 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162733"
 name: SharePoint Foundation 2010
-summary: >+
+summary: |+
   SharePoint Foundation 2010 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/21/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozšíření podpory](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Microsoft SharePoint Foundation 2010, dokumentace vývojáře](/previous-versions/office/ee535067(v=office.14))\n* [Microsoft SharePoint Foundation 2010, dokumentace produktu](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Datum ukončení podpory tohoto produktu bylo odloženo z 13. října 2020 na 13. dubna 2021."
+  - version: Service Pack 2
+    startDate: 07/21/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Návod k migraci](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Rozšíření podpory](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Microsoft SharePoint Foundation 2010 dokumentace vývojáře](/previous-versions/office/ee535067(v=office.14))
+  * [Microsoft SharePoint Foundation 2010 dokumentace produktu](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))
+
+  > [!NOTE]
+  > Datum ukončení podpory tohoto produktu bylo odloženo z 13. října 2020 na 13. dubna 2021.
