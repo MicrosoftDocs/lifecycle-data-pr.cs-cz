@@ -3,26 +3,24 @@ metadata:
   title: Správce virtuálních strojů Microsoft System Center 2012 R2
   description: Správce virtuálních strojů Microsoft System Center 2012 R2 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 45aa95c9e57ed369960f4142c01764f36a8a0495
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850705"
 name: Správce virtuálních strojů Microsoft System Center 2012 R2
-summary: >+
+summary: |+
   Správce virtuálních strojů Microsoft System Center 2012 R2 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 01/16/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Original Release
-  startDate: 01/16/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Dokumentace pro System Center](/system-center/#pivot=components&panel=components-all)\n* [Zdroje pro System Center](https://www.microsoft.com/system-center/resources)"
+  - version: Original Release
+    startDate: 01/16/2014
+    endDate: 07/12/2022
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Dokumentace pro System Center](/system-center/#pivot=components&panel=components-all)
+  * [Zdroje pro System Center](https://www.microsoft.com/system-center/resources)
