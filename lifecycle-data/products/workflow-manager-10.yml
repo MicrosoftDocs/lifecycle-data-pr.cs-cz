@@ -3,24 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002614"
+  keywords: null
 name: Workflow Manager 1.0
-summary: "Workflow Manager 1.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\nToto se vztahuje na následující edice: Client, Standard\n\n"
+summary: |+
+  Workflow Manager 1.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. 
+
+  Toto se vztahuje na následující edice: Client, Standard
+
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o údržbě SharePointu 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Informace o údržbě SharePointu 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Pokud je Workflow Manager součástí SharePoint Serveru 2016 nebo SharePoint Serveru 2013, bude podporován podle data ukončení podpory příslušné verze SharePoint Serveru.\n\n## <a name=\"editions\"></a>Edice \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Informace o údržbě SharePointu 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [Informace o údržbě SharePointu 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Pokud je Workflow Manager součástí SharePoint Serveru 2016 nebo SharePoint Serveru 2013, bude podporován podle data ukončení podpory příslušné verze SharePoint Serveru.
+
+  ## <a name="editions"></a>Edice 
+  * Client
+  * Standard

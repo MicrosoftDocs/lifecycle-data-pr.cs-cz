@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: WinTarget 2.0 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938735"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   WinTarget 2.0 se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
-
 
   Toto se vztahuje na následující edice: Advanced, Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu.\n\n## <a name=\"editions\"></a>Edice \n* Upřesnit\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Podpora pro tento produkt se řídí podmínkami platnými při jeho nákupu.
+
+  ## <a name="editions"></a>Edice 
+  * Upřesnit
+  * Standard
