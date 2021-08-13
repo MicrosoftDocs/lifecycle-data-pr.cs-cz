@@ -3,26 +3,28 @@ metadata:
   title: Dynamics 365 for Finance a Operations (místní)
   description: Dynamics 365 for Finance and Operations (místní) se řídí moderními zásadami životního cyklu.
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 9b879d2f0ced744707a538ea80b4eb7afc438518
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048299"
+  keywords: null
 name: Dynamics 365 for Finance a Operations (místní)
-summary: >+
+summary: |+
   Dynamics 365 for Finance and Operations (on-premises) se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
-
 
   Toto se vztahuje na následující edice: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 06/15/2017
 releases:
-- version: Original Release
-  startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [Odebrané nebo zastaralé funkce](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Požadavky systému](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>Edice \n* Enterprise"
+  - version: Original Release
+    startDate: 06/15/2017
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Servisní informace](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)
+  * [Odebrané nebo zastaralé funkce](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Požadavky systému](https://ax.help.dynamics.com/wiki/browser-requirements/)
+
+
+  ## <a name="editions"></a>Edice 
+  * Enterprise
