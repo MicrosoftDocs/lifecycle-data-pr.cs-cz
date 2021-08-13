@@ -3,25 +3,19 @@ metadata:
   title: Konzola pro správu zabezpečení Microsoft Forefront Server
   description: Konzola pro správu zabezpečení Microsoft Forefront Server se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809918"
 name: Konzola pro správu zabezpečení Microsoft Forefront Server
-summary: >+
+summary: |+
   Konzola pro správu zabezpečení Microsoft Forefront Server se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/10/2008
   end: 04/08/2014
 releases:
-- version: Original Release
-  startDate: 01/10/2008
-  endDate: 04/08/2014
-content: ''
+  - version: Original Release
+    startDate: 01/10/2008
+    endDate: 04/08/2014
+content: |+

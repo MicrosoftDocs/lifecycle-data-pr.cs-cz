@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security se řídí pevnými zásadami životního cyklu.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924248"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Microsoft Forefront Client Security se řídí [Pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Odkazy \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> 14. července 2015 byla ukončena služba Forefront Client Security. Aktualizace definic Antimalwaru a Antispywaru již nebudou po ukončení podpory pro verzi produktu k dispozici. Zvažte System Center Endpoint Protection jako náhradu."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > 14. července 2015 byla ukončena služba Forefront Client Security. Aktualizace definic Antimalwaru a Antispywaru již nebudou po ukončení podpory pro verzi produktu k dispozici. Zvažte System Center Endpoint Protection jako náhradu.

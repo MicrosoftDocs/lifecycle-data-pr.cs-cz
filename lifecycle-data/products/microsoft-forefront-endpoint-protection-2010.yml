@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850945"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
-
   > [!IMPORTANT]
-
   > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Servisní informace](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Zákazníci musí mít nejaktuálnější verzi s nejnovější aktualizací platformy proti malwaru, aby získali plnou podporu. Na program Forefront Endpoint Protection 2010 se vztahují stejné zásady životního cyklu jako na nástroj System Center Configuration Manager 2007 pro hlavní i rozšířenou podporu."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Návod k migraci](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [Servisní informace](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > Zákazníci musí mít nejaktuálnější verzi s nejnovější aktualizací platformy proti malwaru, aby získali plnou podporu. Na program Forefront Endpoint Protection 2010 se vztahují stejné zásady životního cyklu jako na nástroj System Center Configuration Manager 2007 pro hlavní i rozšířenou podporu.

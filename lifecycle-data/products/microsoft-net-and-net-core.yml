@@ -3,45 +3,52 @@ metadata:
   title: Microsoft .NET a .NET Core
   description: Microsoft .NET a .NET Core se řídí moderními zásadami životního cyklu.
   ms.date: 12/17/2020
-  keywords: ASP.NET Core,Entity Framework Core
-  ms.openlocfilehash: 6052955c370906a7e2ecc16cc1d24b3e055adc89
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347349"
+  keywords: 'ASP.NET Core,Entity Framework Core'
 name: Microsoft .NET a .NET Core
-summary: >+
+summary: |+
   Microsoft .NET a .NET Core se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
 
 
 products:
-- dotnet
+  - dotnet
 policyType: modern-on-prem
 supportDates:
   start: 06/27/2016
 releases:
-- version: .NET 5.0
-  startDate: 11/10/2020
-- version: .NET Core 3.1 (LTS)
-  startDate: 12/03/2019
-  endDate: 12/03/2022
-- version: .NET Core 3.0
-  startDate: 09/23/2019
-  endDate: 03/03/2020
-- version: .NET Core 2.2
-  startDate: 12/04/2018
-  endDate: 12/23/2019
-- version: .NET Core 2.1 (LTS)
-  startDate: 05/30/2018
-  endDate: 08/21/2021
-- version: .NET Core 2.0
-  startDate: 08/14/2017
-  endDate: 10/01/2018
-- version: .NET Core 1.1
-  startDate: 11/16/2016
-  endDate: 06/27/2019
-- version: .NET Core 1.0
-  startDate: 06/27/2016
-  endDate: 06/27/2019
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Podrobnosti o podpoře .NET Core (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)\n* [Plán vydání .NET Core](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Plán produktu .NET Core](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)\n* [Nejčastější dotazy k životnímu cyklu – .NET Core](/lifecycle/faq/dotnet-core)\n* [Podrobnosti o podpoře ASP.NET a ASP.NET Core](https://dotnet.microsoft.com/platform/support/policy/aspnet)\n* [Podrobnosti o podpoře rozhraní Entity Framework](/ef/core/what-is-new)\n\n> [!NOTE]\n> Počínaje rozhraním .NET 5.0 bylo rozhraní Microsoft .NET Core přejmenováno na rozhraní .NET. \n>\n>ASP.NET Core a Entity Framework Core se řídí stejným životním cyklem jako .NET Core."
+  - version: .NET 5.0
+    startDate: 11/10/2020
+  - version: .NET Core 3.1 (LTS)
+    startDate: 12/03/2019
+    endDate: 12/03/2022
+  - version: .NET Core 3.0
+    startDate: 09/23/2019
+    endDate: 03/03/2020
+  - version: .NET Core 2.2
+    startDate: 12/04/2018
+    endDate: 12/23/2019
+  - version: .NET Core 2.1 (LTS)
+    startDate: 05/30/2018
+    endDate: 08/21/2021
+  - version: .NET Core 2.0
+    startDate: 08/14/2017
+    endDate: 10/01/2018
+  - version: .NET Core 1.1
+    startDate: 11/16/2016
+    endDate: 06/27/2019
+  - version: .NET Core 1.0
+    startDate: 06/27/2016
+    endDate: 06/27/2019
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Podrobnosti o podpoře .NET Core (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)
+  * [Plán vydání .NET Core](https://github.com/dotnet/core/blob/master/roadmap.md)
+  * [Plán produktu .NET Core](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)
+  * [Nejčastější dotazy k životnímu cyklu – .NET Core](/lifecycle/faq/dotnet-core)
+  * [Podrobnosti o podpoře ASP.NET a ASP.NET Core](https://dotnet.microsoft.com/platform/support/policy/aspnet)
+  * [Podrobnosti o podpoře rozhraní Entity Framework](/ef/core/what-is-new)
+
+  > [!NOTE]
+  > Počínaje rozhraním .NET 5.0 bylo rozhraní Microsoft .NET Core přejmenováno na rozhraní .NET. 
+  >
+  >ASP.NET Core a Entity Framework Core se řídí stejným životním cyklem jako .NET Core.
