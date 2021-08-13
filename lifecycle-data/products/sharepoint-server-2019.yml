@@ -4,26 +4,26 @@ metadata:
   description: SharePoint Server 2019 se řídí zásadami pevného životního cyklu.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 04aeff151809d56448eda49c96441651a9675171
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941663"
 name: SharePoint Server 2019
-summary: >+
+summary: |+
   SharePoint Server 2019 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/22/2018
   end: 01/09/2024
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 10/22/2018
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> Viz dokumentace k [produktům](https://docs.microsoft.com/sharepoint/sharepoint-server) a pro [vývojáře](https://developer.microsoft.com/sharepoint/docs)"
+  - version: Original Release
+    startDate: 10/22/2018
+    endDate: 07/14/2026
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Servisní informace](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)
+
+  > [!NOTE]
+  > Viz dokumentace k [produktům](https://docs.microsoft.com/sharepoint/sharepoint-server) a pro [vývojáře](https://developer.microsoft.com/sharepoint/docs)

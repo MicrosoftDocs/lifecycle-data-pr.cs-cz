@@ -3,33 +3,32 @@ metadata:
   title: 'Licenční a ochranný server softwaru '
   description: Licenční a ochranný server softwaru se řídí zásadami pevného životního cyklu.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001049"
+  keywords: 'Enterprise,Standard'
 name: 'Licenční a ochranný server softwaru '
-summary: >
+summary: |
   Licenční a ochranný server softwaru se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
-
 
   To platí pro následující edice: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Vzhledem k odprodeji Licenčního a ochranného serveru softwaru (SLPS) společnost Microsoft podporovala SLPS až do 24. září 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Licenční a ochranný server softwaru (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edice \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Licenční a ochranný server softwaru (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Edice 
+  * Enterprise
+  * Standard

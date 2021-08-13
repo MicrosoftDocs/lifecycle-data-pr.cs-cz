@@ -3,28 +3,28 @@ metadata:
   title: Windows Defender pro systém Windows 8 a 8.1
   description: Windows Defender pro Windows 8 a 8.1 se řídí zásadami komponentního životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850665"
 name: Windows Defender pro systém Windows 8 a 8.1
-summary: >+
+summary: |+
   Windows Defender pro Windows Server 8 a 8.1 se řídí zásadami [komponentního](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) životního cyklu.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/10/2023
 releases:
-- version: For Windows 8.1
-  startDate: 11/13/2013
-  endDate: 01/10/2023
-- version: For Windows 8
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Tato verze se označuje jako komponentní a následuje životní cyklus nadřazeného produktu."
+  - version: For Windows 8.1
+    startDate: 11/13/2013
+    endDate: 01/10/2023
+  - version: For Windows 8
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Windows 8](/lifecycle/)
+
+  > [!NOTE]
+  > Tato verze se označuje jako komponentní a následuje životní cyklus nadřazeného produktu.

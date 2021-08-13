@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 se řídí zásadami pevného životního cyklu.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940803"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 se řídí zásadami [Pevného](/lifecycle/policies/fixed) životního cyklu.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Společnost Microsoft poskytne aktualizace operačního systému, včetně aktualizací zabezpečení, po minimální dobu 36 měsíců od data zahájení životního cyklu. Tyto aktualizace budou přírůstkové, přičemž každá aktualizace bude postavena na aktualizaci, která jí předcházela. Zákazníci musí nainstalovat každou aktualizaci, aby zůstali podporováni. Distribuce těchto přírůstkových aktualizací může být řízena mobilním operátorem nebo výrobcem telefonu, od kterého jste telefon zakoupili, a instalace bude vyžadovat, aby váš telefon měl nějaké předchozí aktualizace. Dostupnost aktualizací se bude rovněž lišit podle země, oblasti a hardwarových možností."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Společnost Microsoft poskytne aktualizace operačního systému, včetně aktualizací zabezpečení, po minimální dobu 36 měsíců od data zahájení životního cyklu. Tyto aktualizace budou přírůstkové, přičemž každá aktualizace bude postavena na aktualizaci, která jí předcházela. Zákazníci musí nainstalovat každou aktualizaci, aby zůstali podporováni. Distribuce těchto přírůstkových aktualizací může být řízena mobilním operátorem nebo výrobcem telefonu, od kterého jste telefon zakoupili, a instalace bude vyžadovat, aby váš telefon měl nějaké předchozí aktualizace. Dostupnost aktualizací se bude rovněž lišit podle země, oblasti a hardwarových možností.
