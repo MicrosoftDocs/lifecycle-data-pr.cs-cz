@@ -3,25 +3,23 @@ metadata:
   title: Virtuální PC pro Mac
   description: Virtual PC Mac se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "809810"
 name: Virtuální PC pro Mac
-summary: >+
+summary: |+
   Virtual PC for Mac se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Zahrnutá verze 5.01, verze 5.02, verze 5.03, verze 5.04, verze 6.01, verze 6.02, verze 6.1, verze 6.1.1 aktualizace, verze 7, verze 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Zahrnutá verze 5.01, verze 5.02, verze 5.03, verze 5.04, verze 6.01, verze 6.02, verze 6.1, verze 6.1.1 aktualizace, verze 7, verze 7.01

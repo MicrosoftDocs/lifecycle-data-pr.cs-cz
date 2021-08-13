@@ -3,17 +3,10 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255236"
+  keywords: null
 name: Windows Server 2016
-summary: >+
+summary: |+
   Windows Server 2016 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
-
 
 
   Toto se vztahuje na následující edice: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/windows-server/get-started/server-basics)\n* [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)\n* [Životní cykly údržby image kontejneru Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontejnery vydané se systémem Windows Server 2016 sledují stejná data životního cyklu.\n\n\n## <a name=\"editions\"></a>Edice \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Odkazy 
+  * [Informace o produktu](/windows-server/get-started/server-basics)
+  * [Nejčastější dotazy k životnímu cyklu – produkty Windows](/lifecycle/faq/windows)
+  * [Životní cykly údržby image kontejneru Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Kontejnery vydané se systémem Windows Server 2016 sledují stejná data životního cyklu.
+
+
+  ## <a name="editions"></a>Edice 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * Standard

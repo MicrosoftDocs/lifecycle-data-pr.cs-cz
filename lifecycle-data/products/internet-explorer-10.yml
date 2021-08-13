@@ -3,25 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 se řídí zásadami životního cyklu součástí.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850790"
 name: Internet Explorer 10
-summary: >+
+summary: |+
   Internet Explorer 10 se řídí zásadami životního cyklu [součástí](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Nejčastější dotazy k zásadám životního cyklu aplikace Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Seznam podporovaných operačních systémů a kombinací prohlížečů naleznete v nejčastějších dotazech k životnímu cyklu aplikace Internet Explorer."
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Odkazy 
+  * [Návod k migraci](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Nejčastější dotazy k zásadám životního cyklu aplikace Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Seznam podporovaných operačních systémů a kombinací prohlížečů naleznete v nejčastějších dotazech k životnímu cyklu aplikace Internet Explorer.

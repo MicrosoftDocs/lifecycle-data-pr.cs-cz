@@ -3,36 +3,42 @@ metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008 se řídí pevnými zásadami životního cyklu.
   ms.date: 09/02/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
-  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
-  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "945289"
+  keywords: 'All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS'
 name: Visual Studio Team System 2008
-summary: >
+summary: |
   Visual Studio Team System 2008 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
-
-  Toto se vztahuje na následující edice: Všechny, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
-
+  Toto se vztahuje na následující edice: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
   > [!IMPORTANT]
-
   > Podpora je ukončena. Pokyny k migraci naleznete níže.
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 02/19/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
-- version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Návod k migraci](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edice \n* Vše\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+  - version: Service Pack 1
+    startDate: 08/11/2008
+    endDate: 04/10/2018
+  - version: Original Release
+    startDate: 02/19/2008
+    endDate: 10/13/2009
+content: |
+
+  ## <a name="links"></a>Odkazy 
+  * [Návod k migraci](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)
+  * [Návod k migraci](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)
+  * [Zásady aktualizace Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edice 
+  * Vše
+  * Architecture
+  * Database
+  * Development
+  * Team Explorer
+  * Team Test Load Agent
+  * TFS

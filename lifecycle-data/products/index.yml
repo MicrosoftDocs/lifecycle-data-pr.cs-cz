@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: Vyhledejte informace o životním cyklu produktu a služeb
 browseType: lifecycle
-summary: "\n> [!NOTE]\n> Export informací o životním cyklu ze stránky [Exportu životního](/lifecycle/products/export).\n\n\nŽivotní cyklus společnosti Microsoft poskytuje konzistentní a předvídatelné pokyny pro podporu po celou dobu životnosti produktu, které zákazníkům pomáhají spravovat investice do IT a prostředí a současně strategicky plánovat do budoucna.\n\n\nNíže vyhledejte seznam komerčních produktů a služeb společnosti Microsoft a vyberte výsledek a vyhledejte časové osy podpory a údržby, požadované aktualizace, informace o migraci a požadavky na systém."
-metadata:
-  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
-  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
-  ms.translationtype: HT
-  ms.contentlocale: cs-CZ
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "943026"
+summary: |-
+
+  > [!NOTE]
+  > Export informací o životním cyklu ze stránky [Exportu životního](/lifecycle/products/export).
+
+
+  Životní cyklus společnosti Microsoft poskytuje konzistentní a předvídatelné pokyny pro podporu po celou dobu životnosti produktu, které zákazníkům pomáhají spravovat investice do IT a prostředí a současně strategicky plánovat do budoucna.
+
+
+  Níže vyhledejte seznam komerčních produktů a služeb společnosti Microsoft a vyberte výsledek a vyhledejte časové osy podpory a údržby, požadované aktualizace, informace o migraci a požadavky na systém.
