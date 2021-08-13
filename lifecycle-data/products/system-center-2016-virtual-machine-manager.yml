@@ -3,12 +3,12 @@ metadata:
   title: Správce virtuálních strojů System Center 2016
   description: Správce virtuálních strojů System Center 2016 se řídí zásadami pevného životního cyklu.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 60dd080a21b96b92ccd54bd5ada0f5dcba36c14f181b2b88363921f1ad641c5c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850938"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487405"
 name: Správce virtuálních strojů System Center 2016
 summary: >+
   Správce virtuálních strojů System Center 2016 se řídí zásadami [pevného](/lifecycle/policies/fixed) životního cyklu.
