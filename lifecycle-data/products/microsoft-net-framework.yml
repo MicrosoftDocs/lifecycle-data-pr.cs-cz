@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework se řídí komponentními zásadami životního cyklu.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489551"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452620"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   Microsoft .NET Framework se řídí [komponentními](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) zásadami životního cyklu.
+
+
 
 
 
   > [!IMPORTANT]
 
   > Rozhraní .NET Framework 4.5.2, 4.6 a 4.61 bude ukončeno 26. dubna 2022. Tyto konkrétní verze byly dříve digitálně podepsány pomocí certifikátů Secure Hash Algorithm (SHA-1). Tento algoritmus již není považován za bezpečný. Zákazníkům se doporučuje přejít na SHA-2. [Zde](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) se dozvíte více.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informace o produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) je samostatný produkt, který se od Windows 10 verze 1809 a Windows Server 2019 řídí zásadami pevného životního cyklu. Před tímto je .NET Framework 3.5 SP1 považován za součást operačního systému Windows, ve kterém je nainstalován."
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Nejčastější dotazy k životnímu cyklu – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informace o produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) je samostatný produkt, který se od Windows 10 verze 1809 a Windows Server 2019 řídí zásadami pevného životního cyklu. Před tímto je .NET Framework 3.5 SP1 považován za součást operačního systému Windows, ve kterém je nainstalován."
