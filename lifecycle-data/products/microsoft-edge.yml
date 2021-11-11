@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge se řídí moderními zásadami životního cyklu.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560050"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge se řídí [Moderními](/lifecycle/policies/modern) zásadami životního cyklu.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Vezměte prosím na vědomí, že podpora starší verze tohoto produktu končí 9. března 2021. [Zde](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) se dozvíte více.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Odkazy 
-  * [Operační systémy podporované Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Nejčastější dotazy k životnímu cyklu - Internet Explorer a Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Zásady životního cyklu Microsoftu](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Operační systémy podporované Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nové zdroje pro urychlení přechodu na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Nejčastější dotazy k životnímu cyklu - Internet Explorer a Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Zásady životního cyklu Microsoftu](/deployedge/microsoft-edge-support-lifecycle)"
