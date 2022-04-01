@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Lync pro Mac 2011
   description: Microsoft Lync pro Mac 2011 se řídí pevnými zásadami životního cyklu.
   ms.date: 07/28/2020
+  ms.openlocfilehash: d7a65da42b035199050edfa3a9248cc085f0f727
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139111"
 name: Microsoft Lync pro Mac 2011
-summary: |+
+summary: >+
   Microsoft Lync pro Mac 2011 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
-  extendedEnd: 10/09/2018
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
+  extendedEnd: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/09/2018
-content: |+
-
-  ## <a name="links"></a>Odkazy 
-  * [Skype for Business na Macu](https://www.microsoft.com/download/details.aspx?id=54108)
-
-  > [!NOTE]
-  > Podpora Microsoft Lync pro Mac 2011 se rozšiřuje, jak je znázorněno, aby se všem zákazníkům poskytla časová osa přechodu životního cyklu ke Skypu pro firmy na Macu.
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Odkazy \n* [Skype for Business na Macu](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Podpora Microsoft Lync pro Mac 2011 se rozšiřuje, jak je znázorněno, aby se všem zákazníkům poskytla časová osa přechodu životního cyklu ke Skypu pro firmy na Macu."

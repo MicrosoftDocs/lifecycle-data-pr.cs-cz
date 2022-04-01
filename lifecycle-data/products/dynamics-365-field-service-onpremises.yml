@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service (místní)
+  description: Dynamics 365 Field Service (místní) se řídí moderními zásadami životního cyklu.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile app
+  ms.openlocfilehash: 86907adb77c70d91050c8c4e4b0a3ce14b2942b5
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156606"
+name: Dynamics 365 Field Service (místní)
+summary: >+
+  Dynamics 365 Field Service (místní) se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Upozorňujeme, že starší aplikace Field Service Mobile (Xamarin) bude také vyřazena 30. června 2022. Zákazníci by měli před tímto datem přejít na mobilní aplikaci [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform). Další informace najdete v [nejčastějších dotazech o ukončení podpory Field Service Mobile Xamarin](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-on-prem
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+  end: 2022-06-30T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+  endDate: 2022-06-30T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/dynamics/s-e/365enterprise/365fieldservice7_delta)\n* [Informace o migraci](https://dynamics.microsoft.com/cloud-migration/)\n* [Ukončení služby Dynamics 365 Field Service (místní)](https://cloudblogs.microsoft.com/dynamics365/it/2021/06/30/dynamics-365-field-service-on-premises-use-rights-to-retire-on-june-30-2022/)"

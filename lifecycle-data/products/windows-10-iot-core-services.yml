@@ -1,22 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core services
-  description: Windows 10 IoT Core services se řídí moderními zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  title: Windows 10 IoT Core Services
+  description: Windows 10 IoT Core Services se řídí moderními zásadami životního cyklu.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497469"
-name: Windows 10 IoT Core services
-summary: "Windows 10 IoT Core services se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu. \n\n\n"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130421"
+name: Windows 10 IoT Core Services
+summary: >+
+  Windows 10 IoT Core Services se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+
+
+
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services je předplatné nabízející softwarovou podporu jako službu, včetně řízení aktualizací pomocí Centra aktualizací zařízení a vylepšeného zabezpečení pomocí atestace stavu zařízení, pokud používáte podporovanou verzi softwaru Windows 10 IoT Core."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Tento produkt je podporován prostřednictvím [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Odkazy \n* [Přehled Windows 10 IoT Core Services](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Windows 10 IoT Core Services je předplatné podpory dostupné s podporovanými verzemi [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."

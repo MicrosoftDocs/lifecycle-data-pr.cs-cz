@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Klasický klient Azure Information Protection
+  description: Klasický klient Azure Information Protection se řídí moderními zásadami životního cyklu.
+  ms.date: 11/17/2021
+  keywords: 
+  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156660"
+name: Klasický klient Azure Information Protection
+summary: >+
+  Klasický klient Azure Information Protection se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2016-10-01T00:00:00.000-08:00
+  end: 2021-03-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2016-10-01T00:00:00.000-08:00
+  endDate: 2021-03-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Návod k migraci](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Abychom zajistili jednotné a zjednodušené zákaznické prostředí, klient Azure Information Protection a Label Management v Azure Portal jsou od 31. března 2021 zastaralé. Tento časový rámec umožňuje všem aktuálním zákazníkům Azure Information Protection přejít na naše jednotné řešení označování pomocí platformy Microsoft Information Protection Unified Labeling."

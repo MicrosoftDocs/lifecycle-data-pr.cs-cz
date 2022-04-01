@@ -4,26 +4,26 @@ metadata:
   description: Visual Studio 2013 se řídí pevnými zásadami životního cyklu.
   ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
-  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
+  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 10/11/2021
-  ms.locfileid: "3514163"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142779"
 name: Visual Studio 2013
 summary: "Visual Studio 2013 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu. \n\n\nTo platí pro následující edice: Community, Express for Web, Express for Windows, Express for Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate\n\n\n\n"
 products:
 - vs
 policyType: fixed
 supportDates:
-  start: 01/15/2014
-  end: 04/09/2019
-  extendedEnd: 04/09/2024
+  start: 2014-01-15T00:00:00.000-08:00
+  end: 2019-04-09T22:59:59.999-08:00
+  extendedEnd: 2024-04-09T22:59:59.999-08:00
 releases:
 - version: Update 5
-  startDate: 07/20/2015
-  endDate: 04/09/2024
+  startDate: 2015-07-20T00:00:00.000-08:00
+  endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
+  startDate: 2014-01-15T00:00:00.000-08:00
+  endDate: 2024-04-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Servisní informace](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Následující komponenty verze sady Visual Studio 2013 jsou dodávány a podporovány jako součást životního cyklu sady Visual Studio 2013: Agents, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (integrovaný režim), Shell (izolovaný režim), Team Explorer, Visual C ++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Edice \n* Community\n* Express for Web\n* Expres for Windows\n* Express for Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
