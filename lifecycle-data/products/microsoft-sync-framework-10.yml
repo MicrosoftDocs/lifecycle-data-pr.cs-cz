@@ -2,22 +2,26 @@
 metadata:
   title: Microsoft Sync Framework 1.0
   description: Microsoft Sync Framework 1.0 se řídí pevnými zásadami životního cyklu.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2c667592166693fbf1c698aed74ef9cd429ef119
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/06/30
+  keywords: 
+  ms.openlocfilehash: ed71af826e8b68a99c84d6dda7de758c39ac22de
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: cs-CZ
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4137562"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518667"
 name: Microsoft Sync Framework 1.0
-summary: >
+summary: >+
   Microsoft Sync Framework 1.0 se řídí [pevnými](/lifecycle/policies/fixed) zásadami životního cyklu.
+
+
 
 
 
   > [!IMPORTANT]
 
   > Podpora tohoto produktu skončila.
+
 products:
 - vs
 policyType: fixed
@@ -32,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 2008-11-04T00:00:00.000-08:00
   endDate: 2011-07-12T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Podpora Sync Framework 1.0 SP1 končí k uvedenému datu, pokud není distribuována jako součást SharePoint Serveru 2010, 2013, 2016 nebo 2019. Pro komponenty je k dispozici stejná podpora jako pro jejich nadřazené produkty nebo platformy."
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Informace o produktu](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n\n> [!NOTE]\n> Podpora Sync Framework 1.0 SP1 skončila 8. ledna 2019, pokud nebyla distribuována jako součást SharePoint Server 2013, 2016 nebo 2019. Pro komponenty je k dispozici stejná podpora jako pro jejich nadřazené produkty nebo platformy."

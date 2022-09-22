@@ -1,13 +1,13 @@
 ---
 title: Produkty s ukončenou podporou v roce 2019
 description: Zjistěte, které produkty budou vyřazeny, kterým skončí podpora nebo přejdou z běžné na rozšířenou podporu v roce 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4027855"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518223"
 ---
 # <a name="products-ending-support-in-2019"></a>Produkty s ukončenou podporou v roce 2019
 
@@ -24,7 +24,6 @@ Následující produkty, které se řídí [Moderními zásadami](/lifecycle/po
 
 | Produkt | Vyřazení |
 | --- | --- |
-| [Plánovač Azure](/lifecycle/products/azure-scheduler?branch=live)<br> | pondělí 30. září 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | sobota 16. listopadu 2019 |
 
 
@@ -34,6 +33,7 @@ Následujícím verzím produktů, které se řídí [moderními zásadami](/lif
 
 | Produkt | Ukončení servisu |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | středa 13. února 2019 |
 | [Visual Studio pro Mac, Visual Studio 2017 pro Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | pátek 8. března 2019 |
 | [Windows 10 Enterprise a Education, verze 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home a Pro, verze 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, verze 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, verze 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, verze 1709](/lifecycle/products/windows-server?branch=live)<br> | úterý 9. dubna 2019 |
 | [Microsoft Endpoint Configuration Manager, verze 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | pondělí 20. května 2019 |

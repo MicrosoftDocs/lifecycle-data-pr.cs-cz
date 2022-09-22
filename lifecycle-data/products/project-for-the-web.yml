@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project pro web
+  description: Projekt pro web se řídí moderními zásadami životního cyklu.
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519518"
+name: Project pro web
+summary: >+
+  Projekt pro web se řídí [moderními](/lifecycle/policies/modern) zásadami životního cyklu.
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Požadavky systému](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Servisní informace](/officeupdates/update-history-microsoft365-apps-by-date)\n* [Dokumentace produktu](/projectonline/project-online)\n* [Popis služby projekt pro web](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"
