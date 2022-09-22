@@ -1,13 +1,13 @@
 ---
 title: Produkty s ukončenou podporou v roce 2020
 description: Zjistěte, které produkty budou vyřazeny, dosáhnou konce podpory nebo budou přesunuty z podpory hlavního proudu na rozšířenou podporu v roce 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117582"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518186"
 ---
 # <a name="products-ending-support-in-2020"></a>Produkty s ukončenou podporou v roce 2020
 
@@ -38,7 +38,7 @@ Následujícím verzím produktů, které se řídí [moderními zásadami](/lif
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, verze 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | pátek 31. ledna 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | úterý 3. března 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | pátek 4. září 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | pátek 4. září 2020 |
 | [Microsoft Endpoint Configuration Manager, verze 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | neděle 27. září 2020 |
 | [Visio služby v SharePoint (v Microsoftu 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | středa 30. září 2020 |
 | [Windows 10 Enterprise a Education, verze 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, verze 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13. října 2020  |

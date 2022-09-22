@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 v půlročním kanálu (SAC) Windows 10
+  description: Internet Explorer 11 v půlročním kanálu (SAC) Windows 10 se řídí zásadami životního cyklu komponent.
+  ms.date: 2022/06/23
+  keywords: prohlížeč,ie,IE11,sac,půlroční kanál
+  ms.openlocfilehash: 345e9952b9b3e16724e8e13bc928eb50605e031f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519111"
+name: Internet Explorer 11 v půlročním kanálu (SAC) Windows 10
+summary: >+
+  Internet Explorer 11 v půlročním kanálu Windows 10 se řídí zásadami životního cyklu [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Desktopová aplikace Internet Explorer (IE) 11 ukončila podporu půlročního kanálu Windows 10 15. června 2022. Zákazníkům se doporučuje přejít na Microsoft Edge s režimem IE. Režim IE umožňuje zpětnou kompatibilitu a bude podporován minimálně do roku 2029. Společnost Microsoft navíc upozorní uživatele jeden rok před ukončením režimu IE. [Zde](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) najdete seznam podporovaných operačních systémů pro Internet Explorer, včetně verzí, na než má toto oznámení dopad.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Odkazy \n* [Návod k migraci](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Nejčastější dotazy k aplikaci Internet Explorer a Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Operační systémy, v nichž je aplikace Internet Explorer podporovaná](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Operační systémy podporované Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"
