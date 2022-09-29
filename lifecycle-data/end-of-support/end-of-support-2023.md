@@ -1,13 +1,13 @@
 ---
 title: Produkty s ukončenou podporou v roce 2023
 description: Zjistěte, které produkty budou vyřazeny, kterým skončí podpora nebo přejdou z běžné na rozšířenou podporu v roce 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521051"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526859"
 ---
 # <a name="products-ending-support-in-2023"></a>Produkty s ukončenou podporou v roce 2023
 
@@ -36,13 +36,12 @@ Následujícím verzím produktů, které se řídí [moderními zásadami](/lif
 | Produkt | Ukončení servisu |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, verze 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | čtvrtek 2. února 2023 |
-| [Microsoft Endpoint Configuration Manager, verze 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | neděle 12. února 2023 |
 | [Dynamics 365 Business Central - místní nasazení (moderní zásady), 2. vlna vydání 2021, verze 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | středa 12. dubna 2023 |
 | [Windows 10 Enterprise a Education, verze 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, verze 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | úterý 9. května 2023 |
 | [Microsoft Endpoint Configuration Manager, verze 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | čtvrtek 1. června 2023 |
 | [Windows 10 Home a Pro, verze 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | úterý 13. června 2023 |
 | [Microsoft Endpoint Configuration Manager, verze 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | pátek 6. října 2023 |
-| [Dynamics 365 Business Central místní nasazení (moderní zásady), 1. vlna vydání 2022, verze 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home a Pro (verze 21H2), původní vydání (verze 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10. října 2023 |
+| [Dynamics 365 Business Central místní nasazení (moderní zásady), 1. vlna vydání 2022, verze 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home a Pro (verze 21H2)](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10. října 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty, jimž končí podpora

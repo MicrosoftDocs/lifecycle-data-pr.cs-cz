@@ -1,13 +1,13 @@
 ---
 title: Produkty s ukončenou podporou v roce 2025
 description: Zjistěte, které produkty budou vyřazeny, kterým skončí podpora nebo přejdou z běžné na rozšířenou podporu v roce 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517896"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526148"
 ---
 # <a name="products-ending-support-in-2025"></a>Produkty s ukončenou podporou v roce 2025
 
@@ -27,6 +27,13 @@ Následující produkty, které se řídí [Moderními zásadami](/lifecycle/po
 | [Windows 10 Enterprise a Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home a Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14. října 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Ukončení servisu jednotlivých verzí
+
+Následujícím verzím produktů, které se řídí [Moderními zásadami](/lifecycle/policies/modern), skončí podpora v roce 2025.
+
+| Produkt | Ukončení servisu |
+| --- | --- |
+| [Windows 11 Enterprise a Education (verze 22H2)](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise (verze 22H2)](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14. října 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty, jimž končí podpora

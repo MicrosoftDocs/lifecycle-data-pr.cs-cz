@@ -1,13 +1,13 @@
 ---
 title: Produkty s ukončenou podporou v roce 2024
 description: Zjistěte, které produkty budou vyřazeny, kterým skončí podpora nebo přejdou z běžné na rozšířenou podporu v roce 2024.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518075"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526933"
 ---
 # <a name="products-ending-support-in-2024"></a>Produkty s ukončenou podporou v roce 2024
 
@@ -34,8 +34,10 @@ Následujícím verzím produktů, které se řídí [moderními zásadami](/lif
 
 | Produkt | Ukončení servisu |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, verze 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | pondělí 12. února 2024 |
 | [Windows 10 Enterprise a Education, verze 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, verze 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | úterý 11. června 2024 |
-| [Windows 11 Enterprise a Education (verze 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (verze 21H2), původní vydání (verze 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8. října 2024 |
+| [Windows 11 Enterprise a Education (verze 21H2)](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise (verze 21H2)](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8. října 2024 |
+| [Windows 11 Home a Pro (verze 22H2)](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | pondělí 14. října 2024 |
 | [PowerShell, PowerShell 7.2 (aktuální LTS)](/lifecycle/products/powershell?branch=live)<br> | pátek 8. listopadu 2024 |
 | [Azure IoT Edge, verze 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | úterý 12. listopadu 2024 |
 
